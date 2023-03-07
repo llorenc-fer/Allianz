@@ -215,7 +215,7 @@ if st.sidebar.button('Regression',key='regression'):
     Here are the results:""")
     st.dataframe(regressionscores)
     st.markdown('Plots')
-    if  st.button("Lasso", False):
+    if  st.checkbox("Lasso", False):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
     if  st.checkbox("Ridge", False):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Ridge.png?raw=trueg')
