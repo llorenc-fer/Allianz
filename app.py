@@ -36,6 +36,7 @@ corrmap = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/main/corrmap.pn
 importances1 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/importances1.csv')
 importances2 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/importances2.csv')
 importances3 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/importances3.csv')
+classificationmetrics = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/classification_metrics.csv')
 
 st.title("Allianz Data Talent Datathon 2023")
 st.markdown("This application is part of the 1st edition of the Allianz Data Talent Program Datathon (2023)")
@@ -207,6 +208,7 @@ if st.sidebar.button('Feature Importance'):
 st.sidebar.write('Machine Learning')
 if st.sidebar.button('Classification'):
     st.subheader("-")
+    st.dataframe(classificationmetrics)
 
 #--------------------------------------------------------------------------------------------------------------
 if st.sidebar.button('Regression',key='regression'):
