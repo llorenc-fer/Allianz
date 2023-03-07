@@ -26,7 +26,7 @@ regressionscores = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main
 nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv', error_bad_lines=False)
 paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv', error_bad_lines=False)
 paid_recordshape = paid_record.shape
-main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv',error_bad_lines=False)
+main = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/mainsample.csv',error_bad_lines=False)
 mainshape = main.shape
 address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv',error_bad_lines=False)
 addressshape = address.shape
