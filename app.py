@@ -22,7 +22,7 @@ def add_bg_from_url():
 add_bg_from_url()
 
 
-regressionscores = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv', error_bad_lines=False)
+regressionscores = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv',delimiter=',', error_bad_lines=False)
 nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv', error_bad_lines=False)
 paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv', error_bad_lines=False)
 paid_recordshape = paid_record.shape
