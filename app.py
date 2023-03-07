@@ -30,12 +30,12 @@ main = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/m
 mainshape = main.shape
 address = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/address.csv')
 addressshape = address.shape
-coldic = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Columns%20Dictionary.png'
-histbins = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png'
-corrmap = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/corrmap.png'
-importances1 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/importances1.csv')
-importances2 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/importances2.csv')
-importances3 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/importances3.csv')
+coldic = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/main/Columns%20Dictionary.png'
+histbins = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/main/histogram%20columns.png'
+corrmap = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/main/corrmap.png'
+importances1 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/importances1.csv')
+importances2 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/importances2.csv')
+importances3 = pd.read_csv('https://raw.githubusercontent.com/llorenc-fer/Allianz/main/importances3.csv')
 
 st.title("Allianz Data Talent Datathon 2023")
 st.markdown("This application is part of the 1st edition of the Allianz Data Talent Program Datathon (2023)")
