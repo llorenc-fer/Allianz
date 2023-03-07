@@ -30,7 +30,7 @@ main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.
 mainshape = main.shape
 address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv',sep='delimiter', header=None)
 addressshape = address.shape
-coldic = Image.open('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Explicacion_columnas.png')
+coldic = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/Columns%20Dictionary.png')
 histbins = Image.open('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png')
 corrmap = Image.open('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/corrmap.png')
 importances1 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances1.csv',sep='delimiter', header=None)
