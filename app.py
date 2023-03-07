@@ -215,6 +215,9 @@ if st.sidebar.button('Regression',key='regression'):
     Here are the results:""")
     st.dataframe(regressionscores)
     st.markdown('Plots')
+    if st.checkbox("Lasso", False):
+        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=true')
+        streamlit.echo('Lasso checkbox value is: ', st.session_state.get('Lasso', False))
     if  st.checkbox("Lasso", False):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
     if  st.checkbox("Ridge", False):
