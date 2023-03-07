@@ -214,3 +214,14 @@ if st.sidebar.button('Regression'):
     Since we had already created the column ratio, we have tried several Machine Learning Models to check if predicting the ratio score with a regression could be more useful than predicting the category classification of the target column. \n
     Here are the results:""")
     st.dataframe(regressionscores)
+    st.markdown(Plots)
+    st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/ExtraTreeRegressor.png')
+    st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png)
+    st.image()
+    st.image()
+    st.image()
+    st.image()
+    st.image()
+    st.image()
+    st.image()
+    
