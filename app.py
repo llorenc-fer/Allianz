@@ -216,7 +216,7 @@ if st.sidebar.button('Regression'):
     st.dataframe(regressionscores)
     st.markdown(Plots)
     st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/ExtraTreeRegressor.png')
-    st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png)
+    st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png')
     st.image()
     st.image()
     st.image()
