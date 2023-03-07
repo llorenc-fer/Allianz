@@ -23,12 +23,12 @@ add_bg_from_url()
 
 
 regressionscores = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv', error_bad_lines=False)
-nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv')
-paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv')
+nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv', error_bad_lines=False)
+paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv', error_bad_lines=False)
 paid_recordshape = paid_record.shape
-main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv',sep='delimiter', header=None)
+main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv',error_bad_lines=False)
 mainshape = main.shape
-address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv',sep='delimiter', header=None)
+address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv',error_bad_lines=False)
 addressshape = address.shape
 coldic = 'https://github.com/llorenc-fer/Allianz/blob/main/Columns%20Dictionary.png'
 histbins = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png'
