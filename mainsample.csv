@@ -1,0 +1,1001 @@
+CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,DAYS_EMPLOYED,FLAG_MOBIL,FLAG_WORK_PHONE,FLAG_PHONE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS,DAYS_BIRTH_CLEAN,Letter,Main_ID
+F,Y,N,0.0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-4454.0,1.0,0.0,0.0,1.0,Cooking staff,2.0,15/03/1977,R,6639843
+F,Y,N,1.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1800.0,1.0,1.0,0.0,0.0,Laborers,3.0,09/08/1990,U,5787940
+F,Y,Y,1.0,58500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1305.0,1.0,0.0,1.0,0.0,Cooking staff,3.0,25/05/1982,K,5243045
+M,Y,N,0.0,225000.0,Pensioner,Higher education,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,25/05/1962,O,5735626
+F,Y,Y,0.0,,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,21/10/1958,I,6815451
+F,N,Y,0.0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-7152.0,1.0,0.0,0.0,0.0,Core staff,,26/08/1962,M,5241945
+M,Y,N,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-1555.0,1.0,0.0,0.0,0.0,Managers,2.0,28/11/1995,Q,6032894
+F,N,Y,0.0,99000.0,State servant,,Married,House / apartment,-3633.0,1.0,0.0,0.0,0.0,,2.0,19/01/1969,B,5508924
+F,N,Y,0.0,135000.0,Pensioner,,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,29/11/1959,D,5602709
+F,N,Y,0.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-180.0,1.0,0.0,1.0,0.0,Security staff,2.0,14/05/1979,U,5383264
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,13/10/1959,M,6723091
+F,Y,Y,1.0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-1429.0,1.0,1.0,0.0,0.0,Sales staff,3.0,17/09/1990,F,6658778
+F,N,Y,0.0,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,-542.0,1.0,0.0,0.0,0.0,,1.0,17/09/1989,U,6192254
+F,N,N,0.0,90000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-884.0,1.0,0.0,0.0,0.0,Core staff,2.0,21/11/1970,Q,6690768
+F,Y,Y,0.0,382500.0,Working,Higher education,Married,House / apartment,,1.0,0.0,0.0,0.0,Core staff,2.0,23/01/1982,G,5178396
+M,N,Y,0.0,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1616.0,1.0,0.0,,0.0,Laborers,2.0,26/04/1981,G,5956980
+F,N,N,,157500.0,State servant,Higher education,Separated,House / apartment,-7789.0,1.0,1.0,1.0,0.0,Accountants,,13/01/1972,O,6430188
+F,Y,Y,0.0,337500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4266.0,1.0,0.0,0.0,0.0,Cooking staff,2.0,17/11/1973,B,5866276
+F,N,Y,1.0,99000.0,Working,Secondary / secondary special,Widow,House / apartment,-401.0,1.0,1.0,0.0,0.0,,2.0,29/12/1983,Q,6434562
+M,Y,Y,0.0,315000.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,-2026.0,1.0,0.0,,0.0,Drivers,2.0,15/08/1976,X,5045917
+F,N,Y,0.0,211500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-96.0,1.0,0.0,0.0,0.0,Cleaning staff,2.0,15/11/1965,T,6607996
+F,N,Y,1.0,247500.0,Working,Secondary / secondary special,Widow,House / apartment,-2998.0,1.0,0.0,0.0,1.0,Sales staff,2.0,08/02/1983,W,5949213
+F,N,Y,0.0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-1374.0,1.0,0.0,0.0,0.0,Laborers,2.0,23/05/1976,U,5970216
+M,Y,N,1.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1813.0,1.0,0.0,0.0,0.0,Drivers,3.0,23/02/1983,K,6366494
+F,N,Y,0.0,112500.0,State servant,Higher education,Married,Municipal apartment,-4540.0,1.0,0.0,0.0,0.0,Accountants,2.0,23/12/1961,C,5048467
+F,N,N,0.0,180000.0,State servant,Secondary / secondary special,Married,Municipal apartment,-5877.0,1.0,0.0,0.0,0.0,Core staff,2.0,09/09/1987,X,5969359
+M,Y,N,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1904.0,1.0,1.0,1.0,0.0,Drivers,3.0,26/03/1992,L,5137421
+F,N,N,0.0,148500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,,1.0,0.0,1.0,0.0,,1.0,27/05/1966,I,5054370
+M,Y,Y,1.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2371.0,1.0,0.0,0.0,0.0,Drivers,3.0,08/11/1978,O,5053684
+F,Y,N,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-11542.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,02/04/1970,R,5117576
+F,N,Y,1.0,315000.0,State servant,Higher education,Married,House / apartment,-233.0,1.0,1.0,0.0,0.0,Managers,3.0,02/02/1990,B,6759134
+F,N,Y,,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,02/06/1967,P,5900707
+F,N,Y,0.0,121500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,1.0,,2.0,02/11/1965,G,5343636
+M,N,N,2.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-5179.0,1.0,0.0,0.0,0.0,,4.0,16/06/1979,R,5669587
+F,Y,Y,1.0,135000.0,Commercial associate,Higher education,Separated,House / apartment,-357.0,1.0,0.0,0.0,,Core staff,2.0,03/07/1993,V,6520539
+F,Y,N,0.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-5375.0,1.0,0.0,0.0,0.0,Sales staff,2.0,10/12/1986,X,5618394
+M,Y,,0.0,495000.0,Commercial associate,Higher education,Married,House / apartment,-1779.0,1.0,0.0,0.0,0.0,Managers,2.0,15/02/1972,C,6146813
+F,N,N,0.0,427500.0,Working,Incomplete higher,Married,Municipal apartment,-1420.0,1.0,0.0,1.0,0.0,,2.0,18/03/1965,W,6262231
+M,Y,Y,2.0,171000.0,Working,Secondary / secondary special,Married,House / apartment,-4622.0,1.0,0.0,0.0,0.0,Laborers,4.0,31/01/1981,D,6591346
+F,N,Y,0.0,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,03/02/1967,M,5884638
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-931.0,1.0,0.0,0.0,0.0,Sales staff,2.0,07/06/1993,B,6484951
+F,N,Y,0.0,157500.0,Working,Higher education,Single / not married,With parents,-4653.0,1.0,0.0,1.0,0.0,Core staff,1.0,25/05/1986,D,6424951
+F,N,Y,0.0,63000.0,Pensioner,Secondary / secondary special,,House / apartment,,1.0,0.0,0.0,0.0,,2.0,15/05/1957,D,6577710
+F,Y,Y,1.0,108000.0,State servant,Secondary / secondary special,Married,House / apartment,-1705.0,1.0,1.0,0.0,0.0,,3.0,27/11/1978,E,5752162
+M,Y,N,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-2624.0,1.0,0.0,1.0,0.0,Managers,2.0,23/11/1984,Q,6603853
+F,N,N,1.0,90000.0,State servant,Secondary / secondary special,Married,House / apartment,-2573.0,1.0,1.0,1.0,0.0,,3.0,11/02/1986,M,6234042
+F,N,N,0.0,360000.0,Working,Secondary / secondary special,Separated,Municipal apartment,-14797.0,1.0,0.0,0.0,0.0,Accountants,1.0,03/09/1961,Z,5627537
+M,Y,Y,0.0,157500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2066.0,1.0,1.0,0.0,0.0,Drivers,1.0,18/09/1970,I,5405276
+M,Y,Y,1.0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-2102.0,1.0,1.0,1.0,0.0,Drivers,3.0,03/07/1981,Y,5042296
+M,N,N,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3047.0,1.0,0.0,0.0,0.0,,3.0,10/09/1981,I,5388649
+M,N,N,0.0,,Working,Secondary / secondary special,Single / not married,House / apartment,-331.0,1.0,1.0,1.0,0.0,Laborers,1.0,15/05/1999,Y,6830899
+F,N,Y,0.0,81000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,22/10/1965,J,6757973
+M,Y,Y,0.0,112500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,15/12/1971,F,6154229
+F,Y,Y,0.0,,Pensioner,Secondary / secondary special,,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,27/12/1969,O,6786084
+F,N,N,0.0,184500.0,,Secondary / secondary special,Civil marriage,Municipal apartment,-8683.0,1.0,1.0,1.0,0.0,Core staff,2.0,30/12/1978,K,5943336
+F,N,Y,0.0,76500.0,Working,Secondary / secondary special,Married,House / apartment,-5022.0,,1.0,1.0,0.0,Laborers,2.0,29/01/1970,Q,5067997
+M,N,N,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-721.0,1.0,1.0,0.0,0.0,Laborers,2.0,23/05/1986,V,6033093
+M,Y,Y,0.0,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-895.0,1.0,1.0,0.0,0.0,Laborers,2.0,11/12/1973,O,5026188
+F,N,Y,0.0,135000.0,State servant,Higher education,Married,House / apartment,-5962.0,1.0,0.0,0.0,0.0,Managers,2.0,15/07/1962,I,6264776
+F,N,Y,0.0,382500.0,Working,Secondary / secondary special,Separated,House / apartment,-2523.0,1.0,0.0,0.0,0.0,Laborers,1.0,18/08/1983,B,6362736
+F,Y,Y,0.0,180000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,13/11/1962,H,5993594
+M,Y,Y,0.0,180000.0,State servant,Incomplete higher,Married,House / apartment,-1232.0,1.0,0.0,1.0,0.0,Core staff,2.0,22/05/1999,B,6781752
+F,N,N,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2888.0,1.0,0.0,0.0,0.0,Waiters/barmen staff,,16/04/1966,Y,6123391
+M,Y,N,1.0,202500.0,Working,Secondary / secondary special,Married,With parents,-426.0,1.0,0.0,0.0,0.0,,3.0,28/11/1994,S,6782746
+M,N,Y,0.0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-6152.0,1.0,0.0,0.0,0.0,Laborers,2.0,30/04/1979,Q,6288475
+F,N,N,1.0,148500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-2874.0,1.0,0.0,0.0,0.0,Laborers,3.0,24/08/1990,I,7995889
+F,N,N,0.0,315000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-721.0,1.0,0.0,0.0,0.0,Low-skill Laborers,1.0,04/12/1988,W,5771017
+F,N,Y,1.0,450000.0,Commercial associate,Secondary / secondary special,Married,Co-op apartment,-2359.0,1.0,0.0,,0.0,,3.0,29/07/1968,J,5975839
+M,Y,N,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-1540.0,1.0,0.0,1.0,0.0,Sales staff,2.0,27/09/1982,L,5834326
+F,N,Y,0.0,180000.0,Working,Higher education,Widow,House / apartment,-2225.0,1.0,0.0,1.0,0.0,,1.0,26/05/1958,L,6764941
+M,Y,Y,0.0,562500.0,Commercial associate,Higher education,Married,House / apartment,-5114.0,1.0,0.0,1.0,0.0,High skill tech staff,2.0,26/07/1981,X,6192798
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,07/08/1958,V,6509027
+F,N,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,,0.0,0.0,0.0,,1.0,05/06/1964,U,6280962
+F,Y,Y,0.0,225000.0,Pensioner,Higher education,Widow,House / apartment,365243.0,1.0,0.0,1.0,,,1.0,14/07/1966,T,6728491
+F,N,N,3.0,112500.0,Working,Incomplete higher,Married,Municipal apartment,-2470.0,1.0,1.0,0.0,0.0,Sales staff,5.0,05/11/1980,T,5095817
+F,N,N,0.0,157500.0,,,Married,Municipal apartment,-1724.0,1.0,1.0,1.0,0.0,Managers,2.0,26/12/1980,M,5834521
+M,N,Y,2.0,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1600.0,1.0,0.0,0.0,0.0,Managers,4.0,16/07/1982,B,5918262
+M,N,Y,0.0,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2334.0,1.0,1.0,0.0,0.0,,1.0,18/07/1993,A,5023363
+F,Y,Y,0.0,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,24/05/1962,S,6248230
+F,N,Y,1.0,180000.0,Working,Incomplete higher,Married,House / apartment,-3525.0,1.0,0.0,1.0,0.0,Sales staff,3.0,24/02/1995,P,6576048
+M,N,Y,0.0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-750.0,1.0,0.0,0.0,0.0,Laborers,2.0,05/11/1995,Y,5182813
+F,Y,Y,1.0,157500.0,Commercial associate,Higher education,Married,House / apartment,-2716.0,1.0,0.0,1.0,0.0,,,27/12/1986,A,5883888
+F,N,Y,0.0,292500.0,Commercial associate,Higher education,Married,House / apartment,-8043.0,1.0,0.0,1.0,0.0,,2.0,21/02/1971,P,6103192
+M,Y,Y,1.0,675000.0,Commercial associate,Higher education,Married,House / apartment,-4114.0,1.0,0.0,0.0,1.0,Managers,3.0,11/11/1973,F,5235728
+F,Y,Y,2.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-954.0,1.0,0.0,0.0,0.0,Sales staff,4.0,13/06/1995,J,6639327
+F,N,N,0.0,121500.0,State servant,Higher education,Single / not married,With parents,-904.0,1.0,0.0,0.0,0.0,Core staff,1.0,14/04/1997,U,6551070
+F,Y,Y,0.0,225000.0,State servant,Higher education,Married,House / apartment,-9385.0,1.0,1.0,0.0,0.0,Managers,2.0,06/05/1974,Y,5113481
+F,N,Y,0.0,135000.0,,Higher education,Married,House / apartment,-216.0,1.0,0.0,0.0,0.0,Managers,2.0,24/07/1993,N,5385098
+F,N,Y,0.0,67500.0,Working,Higher education,Married,With parents,-1563.0,1.0,0.0,0.0,1.0,Sales staff,2.0,02/02/1995,Q,5711079
+F,N,Y,0.0,94500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,21/12/1967,W,5156656
+F,N,Y,0.0,360000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,13/02/1967,J,6664543
+F,Y,Y,1.0,247500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1253.0,1.0,0.0,0.0,1.0,Laborers,3.0,06/03/1976,C,5067021
+M,Y,N,0.0,607500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4685.0,1.0,0.0,0.0,0.0,Laborers,2.0,24/07/1961,D,5761822
+F,Y,N,0.0,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,28/10/1962,U,6611779
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Separated,House / apartment,-228.0,1.0,0.0,0.0,0.0,High skill tech staff,1.0,31/08/1977,B,6122228
+F,,N,0.0,67500.0,,Secondary / secondary special,Civil marriage,House / apartment,-1346.0,1.0,0.0,0.0,0.0,,2.0,12/08/1997,R,5139333
+M,Y,Y,1.0,292500.0,Working,Secondary / secondary special,Married,House / apartment,-2304.0,1.0,0.0,0.0,0.0,Drivers,3.0,14/02/1986,R,6431049
+F,N,N,0.0,189000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-523.0,1.0,0.0,0.0,0.0,Managers,2.0,02/04/1978,I,5096510
+M,Y,Y,0.0,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-1072.0,1.0,0.0,0.0,0.0,Laborers,1.0,15/08/2000,G,5728006
+F,N,N,2.0,130500.0,Working,Secondary / secondary special,Married,House / apartment,-3557.0,1.0,0.0,0.0,0.0,Sales staff,4.0,12/06/1993,U,5769597
+F,N,Y,0.0,630000.0,Working,Higher education,Separated,House / apartment,-1539.0,1.0,1.0,1.0,0.0,Accountants,1.0,26/11/1962,Z,5029660
+M,Y,Y,0.0,135000.0,,Secondary / secondary special,Married,House / apartment,-2162.0,1.0,0.0,1.0,0.0,Drivers,2.0,03/11/1988,A,6782341
+M,N,Y,0.0,270000.0,Commercial associate,Higher education,Married,House / apartment,-1011.0,1.0,0.0,1.0,0.0,Managers,2.0,03/07/1974,K,6013773
+F,N,Y,0.0,157500.0,Commercial associate,Higher education,Married,House / apartment,-1538.0,1.0,1.0,1.0,0.0,Core staff,2.0,20/05/1992,W,7268816
+F,N,Y,0.0,211500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,07/11/1957,T,5546614
+F,N,Y,2.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-5710.0,1.0,0.0,0.0,0.0,Medicine staff,,13/09/1985,A,6460602
+M,N,Y,0.0,205200.0,Working,Secondary / secondary special,Married,House / apartment,-2678.0,1.0,0.0,0.0,0.0,Laborers,2.0,29/03/1977,H,5282876
+F,Y,N,0.0,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,18/03/1963,U,5344787
+M,Y,N,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1069.0,1.0,0.0,0.0,0.0,Drivers,2.0,04/04/1987,E,6259193
+M,N,N,0.0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,05/05/1961,X,6232315
+F,N,Y,0.0,67500.0,Working,Secondary / secondary special,Civil marriage,Office apartment,-1441.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,04/02/1996,F,6045910
+F,Y,N,1.0,450000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1955.0,1.0,0.0,0.0,1.0,Managers,3.0,09/02/1981,A,6099223
+M,Y,N,3.0,157500.0,Working,Secondary / secondary special,Married,With parents,-3954.0,1.0,0.0,0.0,0.0,Security staff,5.0,09/10/1983,X,5919113
+M,Y,N,0.0,247500.0,Commercial associate,Secondary / secondary special,Married,,-1782.0,1.0,0.0,1.0,1.0,Drivers,2.0,27/08/1987,Z,6234377
+F,N,Y,1.0,99000.0,Working,Secondary / secondary special,Married,House / apartment,-252.0,1.0,0.0,0.0,0.0,Laborers,3.0,29/03/1989,V,5548873
+F,N,Y,0.0,202500.0,Working,Secondary / secondary special,Separated,Rented apartment,-8606.0,1.0,0.0,1.0,0.0,Managers,1.0,16/09/1980,X,6695485
+F,Y,Y,1.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-661.0,1.0,0.0,0.0,1.0,,3.0,06/02/1985,F,5271384
+F,N,N,0.0,135000.0,Working,Incomplete higher,Married,House / apartment,-370.0,1.0,0.0,0.0,0.0,,2.0,10/09/1994,X,5095626
+M,,N,1.0,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2345.0,1.0,0.0,0.0,1.0,Laborers,3.0,06/11/1984,K,6022273
+F,Y,Y,0.0,166500.0,State servant,Higher education,Married,With parents,-2146.0,1.0,1.0,0.0,0.0,Cleaning staff,2.0,30/03/1970,Y,6122533
+M,N,N,0.0,112500.0,Working,Secondary / secondary special,Separated,House / apartment,-613.0,1.0,0.0,0.0,0.0,Cooking staff,1.0,02/10/1979,J,5706494
+F,N,N,0.0,211500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,29/07/1966,X,5798697
+M,N,Y,0.0,135000.0,State servant,Secondary / secondary special,Married,Rented apartment,-2323.0,1.0,1.0,0.0,1.0,,2.0,14/07/1994,O,5087831
+M,Y,Y,1.0,189000.0,Commercial associate,Secondary / secondary special,Married,,-985.0,1.0,0.0,1.0,0.0,Laborers,3.0,05/11/1991,L,6293945
+F,N,Y,1.0,121500.0,Working,Secondary / secondary special,Married,House / apartment,-1305.0,1.0,1.0,0.0,0.0,Cooking staff,3.0,18/03/1986,D,5078865
+F,N,Y,0.0,135000.0,Pensioner,Higher education,Widow,House / apartment,,1.0,0.0,1.0,0.0,,1.0,24/01/1962,M,6140055
+F,,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Married,With parents,-2446.0,1.0,0.0,0.0,0.0,Laborers,2.0,14/06/1996,A,6639250
+F,N,Y,0.0,112500.0,Pensioner,Higher education,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,18/03/1957,M,5259968
+F,Y,N,0.0,94500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3032.0,1.0,1.0,1.0,0.0,,2.0,25/11/1995,B,5833818
+F,N,Y,1.0,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1264.0,1.0,0.0,0.0,0.0,Core staff,3.0,15/08/1977,L,6380355
+F,N,Y,0.0,234000.0,Working,Secondary / secondary special,Married,Municipal apartment,-4436.0,1.0,0.0,0.0,0.0,Core staff,2.0,17/04/1981,X,6134546
+M,N,Y,1.0,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-873.0,1.0,0.0,0.0,0.0,Security staff,3.0,10/03/1995,Q,5058469
+M,Y,Y,0.0,157500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,15/08/1955,R,6611452
+F,N,N,0.0,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,07/03/1956,N,6230581
+F,N,Y,2.0,157500.0,Working,Secondary / secondary special,,House / apartment,-1626.0,1.0,1.0,0.0,0.0,Laborers,4.0,23/10/1986,U,6578092
+F,N,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-702.0,1.0,1.0,0.0,0.0,Sales staff,2.0,29/03/1966,L,6544839
+F,N,N,2.0,225000.0,Working,Higher education,Married,House / apartment,-4841.0,1.0,0.0,0.0,0.0,Managers,4.0,24/09/1982,P,5872124
+M,N,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-189.0,1.0,1.0,0.0,0.0,Drivers,2.0,12/06/1979,G,5539062
+F,Y,N,0.0,225000.0,Working,Higher education,Civil marriage,With parents,,1.0,0.0,0.0,0.0,Sales staff,2.0,11/08/1992,N,5633068
+F,Y,Y,0.0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3877.0,1.0,,0.0,0.0,Managers,2.0,07/12/1982,T,5710357
+M,N,Y,2.0,157500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-293.0,1.0,0.0,0.0,0.0,,4.0,20/10/1992,T,5824087
+F,N,Y,0.0,130500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,26/08/1960,W,6063540
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-4341.0,1.0,0.0,0.0,0.0,Laborers,2.0,05/08/1982,V,6658022
+F,N,Y,0.0,315000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1182.0,1.0,0.0,0.0,0.0,Laborers,,31/10/1971,T,6023555
+F,N,Y,1.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-124.0,1.0,0.0,1.0,0.0,Sales staff,3.0,03/01/1978,Z,5956446
+,Y,Y,0.0,450000.0,Working,Higher education,Married,With parents,-3016.0,1.0,0.0,0.0,1.0,Managers,2.0,05/04/1993,S,5889945
+F,N,Y,1.0,337500.0,Working,,Single / not married,House / apartment,-1007.0,1.0,0.0,0.0,,Accountants,2.0,14/08/1993,E,5980790
+F,N,Y,1.0,135000.0,Commercial associate,Secondary / secondary special,,House / apartment,-2128.0,1.0,0.0,1.0,1.0,Sales staff,3.0,22/02/1993,G,5918715
+F,Y,N,0.0,85500.0,Working,Higher education,Married,House / apartment,-7575.0,1.0,0.0,1.0,0.0,,2.0,19/12/1968,M,6831027
+F,Y,Y,,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-5530.0,1.0,0.0,0.0,1.0,Managers,3.0,26/05/1981,G,5853499
+F,N,,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3286.0,1.0,0.0,0.0,0.0,Sales staff,2.0,05/12/1989,T,5839900
+F,N,N,0.0,180000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,01/10/1964,W,5759725
+F,N,Y,0.0,207000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-3434.0,1.0,1.0,1.0,1.0,,1.0,19/01/1964,V,6575492
+M,N,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1146.0,1.0,1.0,0.0,0.0,Low-skill Laborers,2.0,08/06/1998,S,6311922
+F,Y,N,0.0,180000.0,Working,Higher education,Married,House / apartment,-2852.0,1.0,0.0,1.0,0.0,Core staff,2.0,23/03/1980,T,6759594
+M,Y,N,1.0,405000.0,Commercial associate,Higher education,Married,House / apartment,,1.0,0.0,0.0,0.0,Managers,3.0,17/10/1989,E,5046456
+F,,N,0.0,315000.0,Commercial associate,Higher education,Married,Rented apartment,-2393.0,1.0,0.0,0.0,0.0,Sales staff,2.0,10/04/1979,R,6674774
+F,N,Y,2.0,225000.0,Working,Secondary / secondary special,Separated,House / apartment,-509.0,1.0,0.0,0.0,0.0,,3.0,08/01/1994,F,5992028
+F,Y,N,1.0,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-294.0,1.0,0.0,0.0,0.0,,2.0,16/06/1988,P,6209715
+M,Y,N,0.0,225000.0,State servant,Secondary / secondary special,Single / not married,With parents,-2395.0,1.0,0.0,0.0,0.0,Laborers,1.0,31/03/1997,S,6134704
+F,N,Y,1.0,121500.0,Working,Secondary / secondary special,Married,House / apartment,-355.0,1.0,0.0,0.0,0.0,Laborers,3.0,09/04/1997,R,5067797
+F,N,Y,2.0,135000.0,Commercial associate,Incomplete higher,Civil marriage,House / apartment,-3803.0,1.0,1.0,0.0,0.0,Core staff,4.0,01/02/1991,D,5162450
+F,N,Y,0.0,202500.0,Working,Secondary / secondary special,Married,House / apartment,,1.0,0.0,0.0,0.0,Managers,2.0,03/07/1966,C,6241972
+F,N,Y,0.0,180000.0,Working,Higher education,Married,House / apartment,-808.0,1.0,0.0,,1.0,Core staff,2.0,08/07/1988,V,6036702
+M,N,Y,0.0,112500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2400.0,1.0,0.0,0.0,0.0,Laborers,1.0,06/12/1995,N,5429164
+F,N,Y,0.0,99000.0,Working,Secondary / secondary special,Married,House / apartment,-1174.0,1.0,1.0,1.0,0.0,High skill tech staff,2.0,14/06/1981,B,5618616
+F,N,N,1.0,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-1256.0,1.0,0.0,1.0,0.0,,3.0,14/06/1975,Z,6014100
+F,Y,N,0.0,180000.0,Commercial associate,Higher education,Single / not married,Municipal apartment,-151.0,1.0,1.0,0.0,0.0,,1.0,25/09/1997,H,6423168
+M,N,Y,0.0,99000.0,Working,Secondary / secondary special,Married,House / apartment,-507.0,1.0,1.0,0.0,0.0,,2.0,08/12/1963,B,6454051
+F,N,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2848.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,29/04/1986,O,5905682
+F,N,Y,0.0,90000.0,State servant,,Married,House / apartment,-234.0,1.0,0.0,0.0,0.0,,2.0,12/06/1975,N,5028947
+F,Y,Y,0.0,81000.0,Working,Secondary / secondary special,Married,House / apartment,-9012.0,1.0,1.0,1.0,0.0,Cooking staff,2.0,19/03/1980,X,6692314
+M,N,N,0.0,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-229.0,1.0,0.0,0.0,0.0,Laborers,2.0,29/01/1967,H,5928893
+F,N,N,0.0,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,,1.0,1.0,0.0,0.0,Cleaning staff,2.0,09/11/1991,T,5889762
+F,N,Y,0.0,180000.0,Commercial associate,Higher education,Married,With parents,-2775.0,1.0,0.0,0.0,0.0,Laborers,2.0,15/10/1996,E,5066481
+M,Y,Y,1.0,148500.0,Working,Secondary / secondary special,Married,House / apartment,-979.0,1.0,0.0,0.0,0.0,Low-skill Laborers,3.0,24/04/1991,V,6483755
+M,N,Y,0.0,112500.0,Commercial associate,Higher education,Married,,-2910.0,1.0,,0.0,0.0,Managers,2.0,04/07/1986,U,6514227
+M,Y,Y,0.0,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-787.0,1.0,0.0,0.0,1.0,,2.0,16/09/1986,P,6576385
+F,N,N,0.0,164250.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,25/12/1965,X,5692327
+F,N,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2864.0,1.0,0.0,0.0,,,2.0,18/04/1969,H,6022715
+F,N,,0.0,202500.0,Working,Secondary / secondary special,Separated,House / apartment,-205.0,1.0,0.0,0.0,0.0,Sales staff,1.0,12/12/1976,Q,6543613
+M,N,Y,0.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,,1.0,0.0,0.0,0.0,Security staff,2.0,05/09/1965,U,7154482
+F,N,Y,0.0,180000.0,State servant,Higher education,,Municipal apartment,-4871.0,1.0,1.0,0.0,0.0,Core staff,2.0,16/05/1981,K,6052884
+M,Y,N,0.0,360000.0,Commercial associate,Higher education,Married,House / apartment,-111.0,1.0,,0.0,0.0,Managers,2.0,21/04/1976,G,6195905
+F,,Y,0.0,225000.0,Commercial associate,Higher education,Single / not married,House / apartment,-2155.0,1.0,0.0,0.0,0.0,Managers,1.0,18/11/1978,V,5290591
+F,N,N,0.0,157500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,02/02/1966,E,6570932
+F,N,N,0.0,129748.5,Commercial associate,Higher education,Married,House / apartment,-1517.0,1.0,1.0,0.0,0.0,,2.0,03/12/1996,S,5735317
+F,N,Y,1.0,112500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-216.0,1.0,0.0,0.0,0.0,Sales staff,3.0,09/05/1993,K,5258184
+F,N,Y,0.0,337500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,05/08/1968,P,6464601
+F,N,N,0.0,112500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,04/03/1966,L,6339905
+F,N,N,0.0,39600.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,03/05/1961,F,6263502
+F,Y,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,24/06/1961,I,6772994
+M,Y,Y,1.0,270000.0,Commercial associate,Higher education,Married,House / apartment,-2042.0,1.0,0.0,1.0,0.0,Managers,3.0,24/07/1978,A,5298032
+F,N,Y,2.0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-3681.0,1.0,1.0,0.0,1.0,,,06/12/1989,I,5891658
+F,Y,Y,0.0,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,,0.0,,2.0,05/02/1957,J,5061551
+F,Y,N,0.0,450000.0,Commercial associate,Higher education,Single / not married,House / apartment,-2472.0,1.0,0.0,0.0,1.0,Accountants,1.0,10/04/1979,V,5260754
+F,N,N,1.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3852.0,,0.0,0.0,0.0,Cooking staff,3.0,23/10/1982,C,6480325
+F,Y,Y,2.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-175.0,1.0,0.0,0.0,0.0,Accountants,4.0,25/01/1982,Q,6296521
+M,Y,Y,0.0,382500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3781.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,07/04/1989,Y,5702374
+F,,N,1.0,67500.0,Working,,Civil marriage,House / apartment,-1000.0,1.0,0.0,0.0,0.0,Core staff,3.0,11/06/1992,W,5735296
+F,Y,Y,0.0,135000.0,Working,Incomplete higher,Single / not married,House / apartment,-866.0,1.0,0.0,0.0,0.0,Sales staff,1.0,02/07/2000,Y,6208777
+F,,Y,1.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1494.0,1.0,0.0,0.0,0.0,Laborers,3.0,15/01/1991,I,5861360
+F,N,Y,0.0,67050.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,05/08/1956,O,5046283
+F,N,Y,0.0,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,09/10/1959,Z,5994435
+F,N,Y,0.0,157500.0,Working,Higher education,Married,House / apartment,-3884.0,1.0,0.0,1.0,0.0,Managers,2.0,18/10/1963,O,6792649
+F,N,Y,0.0,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1002.0,1.0,0.0,1.0,1.0,Managers,2.0,10/08/1995,T,6248593
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Single / not married,,365243.0,1.0,0.0,0.0,0.0,,1.0,10/08/1967,F,5821253
+M,Y,Y,1.0,405000.0,State servant,Secondary / secondary special,Married,House / apartment,-8073.0,1.0,0.0,1.0,1.0,Drivers,3.0,13/09/1976,Y,5726728
+F,N,Y,1.0,126000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-910.0,1.0,0.0,0.0,0.0,Waiters/barmen staff,,08/08/1982,E,6447624
+F,N,N,0.0,112500.0,Pensioner,Higher education,Married,,365243.0,1.0,0.0,1.0,0.0,,2.0,05/02/1965,T,6090593
+F,N,Y,1.0,135000.0,Working,Higher education,Married,House / apartment,-1621.0,1.0,1.0,0.0,0.0,,3.0,15/10/1993,G,5502454
+M,Y,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-494.0,1.0,1.0,1.0,0.0,Drivers,2.0,07/04/1971,X,5731892
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-10361.0,1.0,0.0,1.0,0.0,Laborers,2.0,14/07/1976,C,5023832
+M,Y,Y,1.0,180000.0,Commercial associate,Higher education,Separated,With parents,-1894.0,1.0,0.0,0.0,0.0,Drivers,2.0,15/11/1986,R,5741743
+F,N,Y,0.0,202500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,20/10/1965,H,6276755
+M,Y,Y,0.0,360000.0,Commercial associate,Higher education,Married,House / apartment,-3812.0,1.0,0.0,0.0,0.0,Managers,2.0,02/10/1974,A,5702160
+F,N,Y,0.0,157500.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-1057.0,1.0,0.0,0.0,1.0,Sales staff,1.0,23/07/1992,H,6228771
+F,N,Y,0.0,202500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1995.0,1.0,0.0,0.0,0.0,Core staff,1.0,02/11/1977,O,5038877
+F,N,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1331.0,1.0,0.0,0.0,0.0,Security staff,2.0,14/01/1976,J,6485233
+M,Y,Y,1.0,540000.0,Commercial associate,Incomplete higher,Married,House / apartment,-1704.0,1.0,0.0,0.0,0.0,Managers,3.0,03/09/1980,B,5436562
+M,Y,N,1.0,247500.0,Working,Higher education,Married,,-316.0,1.0,0.0,1.0,0.0,Managers,3.0,02/08/1993,R,6664706
+F,N,Y,0.0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1346.0,1.0,1.0,1.0,0.0,,1.0,18/08/1989,P,5284562
+F,N,N,1.0,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,Municipal apartment,-1009.0,1.0,0.0,0.0,0.0,Core staff,3.0,24/01/1993,R,6501256
+F,N,Y,0.0,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-532.0,1.0,0.0,1.0,1.0,Sales staff,1.0,28/03/1987,K,6209196
+F,N,Y,1.0,337500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-260.0,1.0,0.0,0.0,0.0,Sales staff,3.0,25/11/1992,Z,6539378
+,N,N,0.0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,05/06/1966,S,5852051
+M,Y,N,0.0,135000.0,Working,Higher education,Married,House / apartment,-214.0,1.0,0.0,0.0,0.0,Laborers,2.0,28/06/1997,V,5168943
+M,Y,Y,0.0,360000.0,Pensioner,Higher education,Single / not married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,30/01/1961,G,5065397
+F,Y,Y,0.0,675000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-913.0,1.0,0.0,0.0,0.0,,2.0,30/08/1971,R,5021196
+M,N,Y,0.0,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,14/12/1962,C,6799093
+F,N,Y,0.0,161100.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-515.0,1.0,0.0,0.0,0.0,Accountants,2.0,30/10/1972,P,6396914
+F,N,Y,0.0,112500.0,,Secondary / secondary special,Separated,House / apartment,-5570.0,1.0,0.0,1.0,1.0,Secretaries,1.0,03/02/1967,O,6065504
+M,Y,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-912.0,1.0,0.0,0.0,0.0,Laborers,3.0,21/05/1994,I,6621177
+F,Y,Y,2.0,72000.0,Working,Higher education,Married,House / apartment,-2043.0,1.0,0.0,0.0,1.0,Core staff,4.0,12/12/1994,B,5759638
+F,N,Y,0.0,405000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,04/08/1966,S,5500556
+F,N,Y,0.0,72000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,06/08/1961,Q,6692255
+F,N,Y,0.0,247500.0,Working,Secondary / secondary special,Married,House / apartment,-2082.0,1.0,0.0,0.0,0.0,,2.0,21/11/1979,B,6790261
+M,N,Y,0.0,202500.0,Working,Secondary / secondary special,Married,,-5019.0,1.0,0.0,1.0,0.0,Laborers,2.0,26/05/1975,P,6653388
+M,Y,N,0.0,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,03/04/1962,F,6093690
+M,Y,N,0.0,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4257.0,1.0,0.0,0.0,0.0,,2.0,04/08/1970,S,6023023
+F,,N,0.0,180000.0,Working,Secondary / secondary special,Separated,House / apartment,-7233.0,,0.0,1.0,0.0,Laborers,1.0,26/01/1962,V,6022811
+M,N,Y,1.0,360000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,25/07/1978,G,6244426
+F,Y,Y,,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,14/10/1960,X,6045828
+F,N,Y,0.0,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,01/10/1962,E,6192288
+M,Y,N,0.0,202500.0,Working,Secondary / secondary special,Married,With parents,-229.0,1.0,0.0,0.0,0.0,Sales staff,2.0,04/02/1996,S,5838283
+M,Y,Y,2.0,135000.0,Working,Higher education,Married,House / apartment,-796.0,1.0,0.0,0.0,0.0,Laborers,4.0,22/07/1992,D,5726426
+F,N,N,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2226.0,1.0,,1.0,0.0,Managers,2.0,13/09/1971,P,6348321
+F,N,Y,0.0,157500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2538.0,1.0,0.0,0.0,0.0,,1.0,02/08/1968,D,6125675
+M,N,Y,1.0,103500.0,Working,Secondary / secondary special,Married,House / apartment,-1156.0,1.0,1.0,1.0,0.0,Laborers,3.0,08/03/1990,M,6046708
+F,N,N,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2758.0,1.0,0.0,1.0,,Private service staff,2.0,15/10/1977,G,5336343
+F,N,N,4.0,171000.0,State servant,Secondary / secondary special,Married,House / apartment,-1942.0,1.0,1.0,,0.0,Laborers,6.0,11/07/1989,B,5933973
+F,N,Y,0.0,220500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,19/10/1960,N,6798451
+M,N,Y,2.0,270000.0,Working,Incomplete higher,Married,House / apartment,-3488.0,1.0,0.0,0.0,0.0,Managers,4.0,08/01/1973,T,6038398
+F,N,Y,0.0,247500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,,R,5513639
+M,Y,N,0.0,274500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3567.0,1.0,0.0,0.0,0.0,Laborers,2.0,15/05/1975,Y,5117822
+F,Y,,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1842.0,1.0,0.0,0.0,0.0,Sales staff,2.0,17/11/1990,X,6542206
+F,N,N,0.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-4216.0,1.0,1.0,0.0,0.0,Laborers,2.0,28/06/1973,H,6391824
+F,N,Y,1.0,54000.0,Working,Secondary / secondary special,Married,Municipal apartment,,1.0,0.0,0.0,0.0,,3.0,17/10/1999,L,6519169
+F,N,Y,0.0,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,,,2.0,10/01/1965,C,6471394
+F,N,Y,1.0,112500.0,,Secondary / secondary special,Civil marriage,House / apartment,-878.0,1.0,1.0,0.0,0.0,,3.0,03/11/1984,B,6074093
+F,N,Y,0.0,324000.0,State servant,Higher education,Married,House / apartment,-268.0,1.0,0.0,0.0,1.0,High skill tech staff,,22/03/1984,J,6087491
+F,N,Y,0.0,171000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-433.0,1.0,0.0,1.0,0.0,Laborers,1.0,,F,6743382
+F,N,N,0.0,243000.0,,Secondary / secondary special,Married,House / apartment,-114.0,1.0,,0.0,0.0,Cooking staff,2.0,01/08/1975,T,6189364
+F,N,Y,0.0,157500.0,Working,Secondary / secondary special,Married,Municipal apartment,-1745.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,11/05/1977,S,6836448
+F,N,Y,1.0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-3780.0,1.0,0.0,0.0,0.0,Medicine staff,3.0,22/09/1981,G,6525098
+M,N,Y,2.0,135000.0,Working,Lower secondary,Married,House / apartment,-747.0,1.0,0.0,0.0,1.0,Laborers,4.0,17/10/1990,X,5929328
+,N,N,1.0,121500.0,Working,Higher education,Single / not married,Rented apartment,-392.0,1.0,1.0,0.0,0.0,Sales staff,2.0,23/02/1996,R,6138436
+F,N,N,0.0,202500.0,Working,Secondary / secondary special,Widow,House / apartment,-3021.0,1.0,1.0,0.0,0.0,Laborers,1.0,03/06/1985,R,6311385
+F,Y,,0.0,108000.0,Commercial associate,,Married,House / apartment,-3242.0,1.0,0.0,0.0,0.0,,2.0,01/08/1971,Q,6757999
+F,N,N,0.0,,Working,Secondary / secondary special,Married,House / apartment,-783.0,1.0,0.0,0.0,0.0,,2.0,05/02/1970,J,5537314
+F,N,N,0.0,202500.0,Working,Higher education,Single / not married,House / apartment,-2817.0,1.0,0.0,0.0,0.0,Accountants,1.0,20/09/1990,Y,6234215
+F,N,N,2.0,81000.0,Commercial associate,Secondary / secondary special,Married,Co-op apartment,-826.0,1.0,0.0,0.0,0.0,Laborers,4.0,15/06/1988,X,5627818
+F,N,Y,0.0,180000.0,Commercial associate,Higher education,Married,House / apartment,-4842.0,1.0,0.0,0.0,0.0,Private service staff,2.0,,X,6288319
+F,Y,N,0.0,315000.0,Working,Higher education,Separated,House / apartment,-2568.0,1.0,0.0,1.0,0.0,Managers,1.0,14/02/1968,W,6060871
+F,Y,Y,0.0,270000.0,Pensioner,Higher education,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,22/03/1965,D,6469490
+M,N,Y,0.0,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2334.0,1.0,1.0,0.0,0.0,,1.0,18/07/1993,H,5023362
+F,Y,Y,1.0,135000.0,Commercial associate,Higher education,Separated,House / apartment,-7443.0,1.0,0.0,1.0,0.0,Core staff,2.0,26/08/1981,A,6463931
+F,N,Y,0.0,189000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,1.0,,1.0,01/10/1960,K,5993278
+F,Y,Y,0.0,90000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-9953.0,1.0,0.0,0.0,0.0,Medicine staff,1.0,13/03/1970,T,6065530
+M,Y,N,0.0,117000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,22/01/1967,K,5406119
+F,N,N,0.0,67500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,23/11/1954,E,6155046
+F,N,Y,0.0,157500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,04/07/1964,A,5957325
+M,N,N,0.0,292500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-395.0,1.0,0.0,0.0,0.0,Laborers,1.0,30/09/2000,F,6773071
+F,N,N,0.0,202500.0,Working,Secondary / secondary special,Widow,House / apartment,-1743.0,1.0,0.0,0.0,0.0,Medicine staff,1.0,07/02/1973,B,6702659
+M,Y,Y,1.0,148500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-345.0,1.0,1.0,0.0,1.0,Laborers,3.0,06/08/1983,A,6781505
+F,N,Y,0.0,292500.0,State servant,Higher education,Married,House / apartment,-1573.0,1.0,0.0,1.0,0.0,Medicine staff,2.0,22/03/1973,Z,6469530
+F,,Y,0.0,67500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1546.0,1.0,0.0,1.0,0.0,Laborers,2.0,01/11/1976,J,5185811
+F,Y,Y,0.0,315000.0,Working,Secondary / secondary special,Married,House / apartment,-3566.0,1.0,0.0,0.0,0.0,Laborers,2.0,29/11/1977,P,5759912
+F,N,Y,0.0,675000.0,Commercial associate,Higher education,Married,House / apartment,-1205.0,1.0,0.0,1.0,1.0,,2.0,22/12/1974,F,5833152
+M,Y,N,0.0,315000.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-4021.0,1.0,0.0,0.0,0.0,Laborers,1.0,23/12/1985,Z,5957634
+M,N,Y,0.0,76500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,11/05/1965,O,5541323
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,,House / apartment,-660.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,19/05/1971,D,6388954
+F,N,Y,,135000.0,,Higher education,Married,House / apartment,-4397.0,1.0,0.0,0.0,0.0,Laborers,3.0,11/05/1991,Z,6064902
+M,N,Y,0.0,189000.0,,Secondary / secondary special,Married,House / apartment,-5292.0,1.0,0.0,0.0,0.0,Laborers,2.0,28/07/1979,K,5405300
+F,N,Y,0.0,135000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,23/02/1958,B,6509190
+M,Y,Y,0.0,202500.0,Commercial associate,Higher education,Married,House / apartment,,1.0,0.0,0.0,0.0,High skill tech staff,2.0,09/02/1994,I,5825271
+M,Y,N,0.0,112500.0,Working,,Married,House / apartment,-2672.0,1.0,1.0,0.0,0.0,Laborers,2.0,12/10/1974,H,6224017
+M,Y,N,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-3616.0,1.0,1.0,1.0,0.0,,2.0,16/06/1988,Y,7736256
+F,N,N,0.0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2622.0,1.0,0.0,0.0,0.0,Medicine staff,1.0,17/09/1973,R,6035201
+M,N,Y,0.0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-522.0,1.0,0.0,0.0,0.0,,2.0,08/08/1990,D,5787424
+F,Y,N,1.0,180000.0,Working,,Married,House / apartment,-1607.0,1.0,1.0,0.0,0.0,Laborers,3.0,23/01/1976,Q,6088429
+F,Y,Y,0.0,166500.0,Working,Higher education,Married,House / apartment,-518.0,1.0,0.0,0.0,0.0,Accountants,2.0,13/05/1993,S,6688775
+F,N,Y,1.0,184500.0,State servant,Higher education,Married,House / apartment,-2797.0,1.0,0.0,0.0,0.0,Core staff,3.0,29/08/1977,D,5541163
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,14/01/1959,H,5727332
+M,Y,Y,0.0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1353.0,1.0,1.0,1.0,0.0,Managers,1.0,28/07/1994,X,6121974
+F,N,,1.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-823.0,1.0,0.0,0.0,0.0,Laborers,3.0,18/05/1982,O,6592118
+F,N,Y,1.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1208.0,1.0,0.0,0.0,0.0,Laborers,3.0,16/07/1994,Q,5829936
+M,Y,N,1.0,540000.0,Working,Higher education,Single / not married,Municipal apartment,-4984.0,,0.0,1.0,0.0,Managers,3.0,25/03/1973,O,6223095
+F,N,Y,0.0,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-1611.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,06/10/1969,M,5642054
+F,N,Y,1.0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2801.0,1.0,0.0,0.0,0.0,,3.0,22/02/1984,K,5424111
+F,Y,Y,0.0,504000.0,Commercial associate,,Married,House / apartment,-5936.0,1.0,0.0,0.0,1.0,,2.0,04/09/1977,W,6448708
+M,N,N,0.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2879.0,1.0,0.0,1.0,0.0,Laborers,2.0,11/09/1990,D,6815412
+F,N,Y,0.0,135000.0,Commercial associate,Higher education,Separated,House / apartment,-2867.0,1.0,0.0,0.0,0.0,Accountants,1.0,14/12/1977,Z,5235896
+F,N,Y,0.0,202500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-3540.0,1.0,0.0,0.0,1.0,Secretaries,2.0,28/01/1985,I,6836298
+M,N,N,0.0,112500.0,Commercial associate,Incomplete higher,Single / not married,With parents,-272.0,1.0,1.0,1.0,0.0,,1.0,30/07/2000,Z,6634178
+F,N,Y,1.0,157500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,-1350.0,1.0,0.0,0.0,0.0,Waiters/barmen staff,2.0,07/06/1988,M,5132952
+F,Y,Y,0.0,184500.0,State servant,Secondary / secondary special,Married,House / apartment,-7663.0,,0.0,0.0,,Core staff,2.0,27/12/1974,U,6499343
+M,Y,Y,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3327.0,1.0,0.0,0.0,0.0,Managers,3.0,12/02/1977,Q,5010588
+F,N,Y,0.0,283500.0,Pensioner,Higher education,Widow,House / apartment,365243.0,1.0,0.0,0.0,,,1.0,22/05/1955,Z,6447803
+F,Y,Y,0.0,103500.0,Working,Higher education,Married,House / apartment,-1732.0,1.0,0.0,0.0,0.0,Core staff,2.0,29/10/1994,G,5522466
+M,Y,Y,0.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-584.0,1.0,0.0,0.0,0.0,Laborers,2.0,19/02/1991,I,5415941
+F,N,Y,1.0,157500.0,Commercial associate,Higher education,Married,Office apartment,-1737.0,1.0,1.0,1.0,0.0,Accountants,3.0,09/03/1988,A,5871864
+M,Y,Y,2.0,283500.0,Working,Secondary / secondary special,Married,House / apartment,-6201.0,1.0,0.0,0.0,1.0,Core staff,4.0,21/05/1983,Z,6390666
+F,N,N,0.0,211500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-231.0,1.0,1.0,0.0,0.0,Laborers,2.0,19/01/1986,T,5988338
+F,N,N,0.0,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-4014.0,1.0,0.0,0.0,0.0,Accountants,1.0,14/11/1977,Z,6242604
+M,N,N,0.0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-1432.0,1.0,0.0,1.0,0.0,Managers,2.0,20/12/1980,P,6046968
+M,Y,Y,2.0,234000.0,Commercial associate,Higher education,Married,With parents,-916.0,1.0,1.0,1.0,0.0,,4.0,20/09/1992,H,5602757
+F,N,N,0.0,216000.0,Working,Secondary / secondary special,Married,Municipal apartment,-1180.0,1.0,0.0,0.0,0.0,Sales staff,2.0,23/11/1975,J,6223979
+M,Y,Y,1.0,,Working,Secondary / secondary special,Married,House / apartment,-3883.0,1.0,0.0,0.0,0.0,,3.0,18/10/1986,V,5279181
+M,N,Y,1.0,54000.0,,Secondary / secondary special,Civil marriage,House / apartment,-542.0,1.0,0.0,0.0,0.0,,3.0,14/04/1981,J,6124954
+F,N,Y,1.0,157500.0,Working,Higher education,Single / not married,House / apartment,-1557.0,1.0,0.0,0.0,0.0,,2.0,17/10/1978,P,5235760
+F,N,Y,0.0,144000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,02/06/1964,W,6697613
+M,N,Y,0.0,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1639.0,1.0,1.0,1.0,0.0,,2.0,05/03/1981,T,5737026
+F,N,N,2.0,135000.0,Working,Higher education,Married,Municipal apartment,-2329.0,1.0,0.0,0.0,0.0,Managers,4.0,08/05/1981,K,6779058
+,N,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Married,With parents,-609.0,1.0,0.0,,0.0,Accountants,2.0,28/11/1983,A,7193018
+F,Y,Y,,99000.0,Commercial associate,Higher education,Married,Municipal apartment,-3364.0,1.0,0.0,1.0,0.0,Core staff,4.0,09/06/1984,D,6465382
+F,N,Y,0.0,135000.0,Pensioner,,Married,House / apartment,365243.0,1.0,0.0,0.0,1.0,,2.0,18/05/1961,I,6007815
+F,N,Y,0.0,119250.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,08/03/1967,J,6480734
+F,N,Y,0.0,59400.0,Working,Secondary / secondary special,Married,House / apartment,-4938.0,1.0,1.0,0.0,0.0,Core staff,2.0,09/03/1969,B,6798899
+F,Y,Y,2.0,,Working,Secondary / secondary special,Married,House / apartment,-736.0,1.0,0.0,0.0,1.0,Laborers,4.0,29/04/1980,H,7888998
+M,N,Y,0.0,171000.0,Working,Secondary / secondary special,Married,House / apartment,-976.0,1.0,0.0,0.0,0.0,Laborers,2.0,27/12/1986,W,5581571
+M,Y,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2430.0,1.0,0.0,0.0,0.0,,,24/08/1990,I,6023114
+F,Y,Y,2.0,202500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-975.0,1.0,0.0,0.0,,,4.0,03/05/1992,B,5867587
+F,N,N,0.0,202500.0,,Lower secondary,Single / not married,House / apartment,-1560.0,1.0,0.0,0.0,1.0,Security staff,1.0,16/05/1985,T,6161414
+F,Y,Y,2.0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2999.0,1.0,0.0,0.0,0.0,Accountants,4.0,14/06/1983,W,6630582
+M,Y,N,3.0,202500.0,Working,Higher education,Married,House / apartment,-9794.0,1.0,0.0,0.0,0.0,,,17/08/1975,Q,5796428
+F,N,N,0.0,202500.0,Commercial associate,Secondary / secondary special,Separated,With parents,-5956.0,1.0,0.0,0.0,0.0,Laborers,1.0,13/02/1982,E,6727879
+M,N,Y,2.0,117000.0,Working,Secondary / secondary special,Married,House / apartment,-1222.0,1.0,0.0,0.0,0.0,Security staff,4.0,14/09/1994,E,6358343
+F,N,Y,0.0,252000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,13/09/1961,O,6606189
+F,Y,N,,112500.0,State servant,Higher education,Married,House / apartment,-1529.0,1.0,0.0,0.0,0.0,Core staff,4.0,01/01/1995,Z,5454326
+,Y,Y,1.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1753.0,1.0,0.0,1.0,0.0,Sales staff,3.0,01/04/1982,Y,5091560
+F,Y,Y,2.0,112500.0,Working,Higher education,Single / not married,House / apartment,-3500.0,1.0,0.0,0.0,0.0,Accountants,3.0,29/03/1980,Q,5425114
+F,N,Y,0.0,270000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-2755.0,1.0,0.0,0.0,0.0,Laborers,2.0,25/06/1994,P,5838142
+F,N,N,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1362.0,1.0,1.0,0.0,0.0,,2.0,26/08/1985,C,6262745
+M,Y,Y,2.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-463.0,1.0,0.0,0.0,0.0,Low-skill Laborers,4.0,28/03/1995,O,5882983
+F,N,N,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-821.0,1.0,0.0,1.0,,Laborers,3.0,15/08/1980,V,6691648
+F,N,Y,,180000.0,Commercial associate,Higher education,,House / apartment,-2615.0,1.0,0.0,0.0,0.0,Accountants,2.0,04/02/1990,K,5344973
+M,Y,Y,0.0,54000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,09/07/1958,S,5928444
+F,Y,Y,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-1608.0,1.0,0.0,1.0,0.0,,2.0,13/12/1968,R,5972009
+F,Y,N,0.0,171000.0,Working,Secondary / secondary special,Married,Municipal apartment,-160.0,1.0,0.0,0.0,0.0,Managers,2.0,13/08/1989,O,6702804
+F,Y,Y,0.0,112500.0,Commercial associate,Higher education,Single / not married,House / apartment,-843.0,1.0,0.0,0.0,0.0,Core staff,1.0,08/03/1991,S,5178462
+F,N,Y,1.0,135000.0,Commercial associate,Incomplete higher,Married,House / apartment,-2049.0,1.0,1.0,1.0,1.0,Core staff,3.0,,W,5113494
+M,N,Y,0.0,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,27/04/1957,O,5116937
+F,N,Y,0.0,247500.0,State servant,Secondary / secondary special,Widow,House / apartment,-3518.0,1.0,0.0,0.0,0.0,Managers,1.0,30/12/1962,J,5988456
+F,N,Y,0.0,135000.0,State servant,Higher education,Widow,House / apartment,-723.0,1.0,0.0,1.0,0.0,,1.0,07/01/1972,R,6499632
+F,N,N,0.0,225000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2264.0,1.0,0.0,0.0,0.0,,1.0,22/05/1975,L,6100862
+F,N,Y,0.0,360000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-1948.0,1.0,0.0,1.0,0.0,Security staff,1.0,19/07/1972,H,6047318
+F,N,Y,0.0,270000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1598.0,1.0,0.0,0.0,0.0,Medicine staff,1.0,10/02/1972,T,6121912
+M,,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,16/01/1959,V,7297035
+F,N,N,1.0,81000.0,Commercial associate,Higher education,Single / not married,House / apartment,-276.0,1.0,0.0,0.0,0.0,Laborers,2.0,30/04/1969,F,6448937
+M,Y,Y,0.0,315000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-824.0,1.0,1.0,1.0,0.0,Managers,2.0,24/10/1984,R,5441129
+M,Y,Y,0.0,135000.0,Commercial associate,Secondary / secondary special,,House / apartment,-542.0,1.0,0.0,0.0,0.0,Sales staff,2.0,22/11/1991,M,6602137
+M,Y,Y,2.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-761.0,1.0,0.0,0.0,0.0,Sales staff,4.0,29/02/1984,W,5190031
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Widow,House / apartment,-1764.0,1.0,,1.0,0.0,Laborers,1.0,07/10/1980,D,5632680
+M,Y,Y,,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-6054.0,1.0,0.0,0.0,1.0,Laborers,1.0,25/02/1986,I,6363133
+M,Y,Y,0.0,225000.0,Working,Higher education,Single / not married,Rented apartment,-456.0,1.0,0.0,0.0,1.0,High skill tech staff,1.0,27/04/1995,P,6736958
+,Y,Y,0.0,81000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,1.0,,2.0,12/07/1967,K,5541941
+F,N,N,0.0,202500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,30/05/1969,J,5349966
+F,N,N,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-5420.0,1.0,0.0,1.0,0.0,Laborers,2.0,06/03/1982,L,5891093
+F,Y,Y,0.0,202500.0,Working,Incomplete higher,,House / apartment,-5434.0,1.0,1.0,,0.0,Accountants,2.0,26/03/1972,A,5148880
+M,Y,N,2.0,126000.0,Working,Secondary / secondary special,Married,,-3907.0,1.0,0.0,0.0,0.0,Drivers,4.0,05/01/1991,A,5738330
+F,N,N,0.0,211500.0,Working,Secondary / secondary special,Married,House / apartment,-3563.0,1.0,1.0,1.0,0.0,Security staff,2.0,08/03/1972,A,6388990
+M,N,Y,0.0,144000.0,Working,Higher education,Married,House / apartment,-2851.0,1.0,0.0,0.0,0.0,Core staff,2.0,09/05/1991,F,6514272
+M,N,N,2.0,157500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-5257.0,1.0,1.0,0.0,0.0,,4.0,16/03/1981,R,6470068
+M,Y,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,,1.0,1.0,0.0,0.0,Laborers,3.0,26/03/1989,Z,5832117
+F,N,Y,0.0,157500.0,Pensioner,Incomplete higher,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,07/01/1966,K,5598841
+F,N,Y,0.0,207000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,,1.0,0.0,0.0,0.0,,1.0,,Q,5224077
+F,N,N,0.0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-8057.0,1.0,0.0,0.0,0.0,,1.0,23/07/1974,Q,6033009
+,Y,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3608.0,1.0,0.0,0.0,0.0,Sales staff,2.0,15/02/1977,P,5618666
+F,Y,Y,2.0,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-996.0,1.0,,1.0,0.0,Drivers,4.0,16/09/1994,J,6560049
+F,N,Y,0.0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1904.0,1.0,0.0,0.0,0.0,Managers,2.0,28/02/1972,P,5029588
+M,N,Y,0.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-1192.0,1.0,0.0,0.0,0.0,Laborers,2.0,13/09/1978,T,5787735
+F,N,Y,2.0,180000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-734.0,1.0,0.0,1.0,0.0,Medicine staff,3.0,28/08/1987,J,5957797
+F,N,N,0.0,121500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-719.0,1.0,1.0,0.0,0.0,Private service staff,1.0,12/12/1980,D,6108793
+F,N,Y,0.0,148500.0,Pensioner,Lower secondary,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,13/02/1961,R,7611518
+F,N,Y,0.0,157500.0,Commercial associate,Higher education,Married,House / apartment,-1477.0,1.0,1.0,1.0,0.0,,2.0,04/02/1978,I,6758258
+F,N,N,0.0,171000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-190.0,1.0,1.0,0.0,0.0,Sales staff,2.0,15/11/1988,I,5944291
+F,N,N,1.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-1009.0,1.0,0.0,0.0,0.0,Core staff,3.0,10/06/1992,K,6273969
+F,Y,Y,1.0,220500.0,Commercial associate,Higher education,Single / not married,House / apartment,-847.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,18/11/1995,O,6092070
+F,Y,Y,0.0,270000.0,Working,Higher education,Married,House / apartment,-6815.0,1.0,0.0,0.0,1.0,High skill tech staff,2.0,05/10/1961,O,6249109
+M,N,,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-673.0,1.0,0.0,1.0,0.0,Drivers,2.0,29/07/1972,Z,5564128
+F,N,Y,1.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1057.0,1.0,0.0,0.0,1.0,Laborers,3.0,08/08/1992,R,6229498
+F,N,Y,0.0,126000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,26/11/1960,R,6036671
+F,Y,Y,0.0,157500.0,Commercial associate,Incomplete higher,Single / not married,With parents,-1800.0,1.0,0.0,0.0,0.0,Core staff,1.0,22/02/2000,J,5988833
+M,N,Y,1.0,135000.0,Working,Incomplete higher,Married,House / apartment,-1552.0,1.0,0.0,1.0,0.0,Managers,3.0,01/10/1999,P,6281114
+M,N,N,0.0,202500.0,Working,Secondary / secondary special,Married,With parents,-3768.0,1.0,0.0,0.0,0.0,,,11/10/1981,V,5438499
+F,N,Y,2.0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-212.0,1.0,0.0,0.0,0.0,Laborers,4.0,17/05/1995,E,5637030
+M,Y,Y,0.0,360000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-3497.0,1.0,0.0,0.0,0.0,,1.0,25/04/1986,V,6428811
+F,N,N,0.0,225000.0,Working,Secondary / secondary special,Widow,House / apartment,-5637.0,1.0,0.0,0.0,0.0,Accountants,1.0,01/08/1966,I,5095852
+M,Y,Y,0.0,225000.0,Working,Higher education,Single / not married,House / apartment,-175.0,1.0,0.0,0.0,0.0,Core staff,1.0,02/07/1996,Z,5851817
+M,Y,N,1.0,238500.0,Working,Higher education,Married,With parents,-1965.0,1.0,1.0,1.0,0.0,Drivers,3.0,21/12/1991,P,5029796
+F,Y,N,0.0,99000.0,Commercial associate,Higher education,Married,House / apartment,-1912.0,1.0,1.0,0.0,0.0,Drivers,,08/10/1994,A,5736679
+F,N,Y,0.0,166500.0,Working,Secondary / secondary special,Married,Municipal apartment,-1257.0,1.0,1.0,1.0,0.0,Medicine staff,2.0,15/06/1974,G,6103380
+M,Y,Y,,234000.0,Pensioner,Incomplete higher,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,12/06/1978,S,6611227
+M,Y,Y,,180000.0,Working,Incomplete higher,Married,House / apartment,-2705.0,1.0,0.0,0.0,0.0,Drivers,3.0,08/07/1993,D,6207133
+F,N,Y,1.0,81000.0,Working,Secondary / secondary special,,House / apartment,-8372.0,1.0,1.0,1.0,0.0,Core staff,3.0,17/09/1973,H,7544714
+M,N,Y,0.0,225000.0,State servant,Secondary / secondary special,Married,House / apartment,-971.0,1.0,0.0,1.0,0.0,Cleaning staff,2.0,04/10/1967,E,6335885
+F,Y,N,1.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-978.0,1.0,1.0,0.0,0.0,Sales staff,3.0,18/11/1984,R,6806691
+F,N,Y,2.0,135000.0,State servant,Incomplete higher,Married,House / apartment,-1566.0,1.0,0.0,0.0,0.0,Laborers,4.0,12/02/1994,Q,6409660
+F,N,Y,0.0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-712.0,1.0,0.0,1.0,0.0,High skill tech staff,1.0,27/11/1974,M,6606351
+F,N,N,0.0,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,23/06/1958,I,5832659
+F,N,N,1.0,126000.0,Working,Secondary / secondary special,Married,House / apartment,-1771.0,1.0,1.0,1.0,0.0,Managers,3.0,26/07/1977,N,5454588
+F,N,Y,0.0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-781.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,20/01/1959,F,6394862
+F,N,Y,0.0,193500.0,State servant,,Married,House / apartment,-1159.0,1.0,0.0,0.0,0.0,Core staff,2.0,06/09/1992,H,5116389
+F,Y,N,1.0,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1180.0,1.0,1.0,1.0,0.0,Cooking staff,2.0,30/11/1981,T,6224342
+M,Y,Y,0.0,157500.0,Working,Higher education,Married,House / apartment,-536.0,1.0,0.0,0.0,0.0,Security staff,2.0,21/10/1971,R,5067668
+F,Y,Y,0.0,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-216.0,1.0,1.0,0.0,0.0,Medicine staff,2.0,06/02/1992,E,5956466
+F,N,Y,1.0,144000.0,Commercial associate,Lower secondary,Married,,-205.0,1.0,0.0,0.0,0.0,Sales staff,3.0,23/10/1981,Y,6670861
+M,Y,Y,1.0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-2571.0,1.0,0.0,0.0,0.0,Managers,3.0,06/03/1978,S,6238895
+F,N,Y,1.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-543.0,1.0,1.0,0.0,0.0,Laborers,3.0,27/01/1981,J,5876960
+F,N,N,2.0,202500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-4687.0,1.0,0.0,0.0,0.0,Laborers,3.0,31/01/1991,E,6625626
+M,N,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-851.0,1.0,0.0,1.0,0.0,Laborers,2.0,10/07/1972,D,6212682
+F,Y,Y,0.0,180000.0,Pensioner,Higher education,Widow,House / apartment,365243.0,1.0,,1.0,0.0,,1.0,05/11/1954,I,6697725
+F,N,Y,0.0,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,21/11/1962,Y,5760252
+M,Y,Y,0.0,202500.0,State servant,Higher education,Married,House / apartment,-6521.0,1.0,0.0,0.0,0.0,Core staff,2.0,26/09/1981,L,5489937
+F,Y,Y,1.0,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,3.0,11/06/1959,B,6481809
+F,,Y,0.0,135000.0,Commercial associate,Higher education,Single / not married,House / apartment,-3627.0,1.0,0.0,0.0,0.0,Cleaning staff,1.0,16/02/1979,Y,5706475
+M,Y,Y,1.0,162000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-840.0,1.0,1.0,0.0,0.0,Sales staff,3.0,18/11/2000,J,5476216
+F,N,N,1.0,180000.0,Working,Higher education,Civil marriage,House / apartment,-118.0,1.0,0.0,0.0,0.0,Sales staff,3.0,11/04/1987,W,6076364
+F,N,Y,0.0,85500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,25/03/1960,D,6643254
+F,Y,N,1.0,180000.0,State servant,Higher education,Married,House / apartment,-2672.0,1.0,0.0,0.0,0.0,Accountants,3.0,11/02/1985,X,6074954
+F,Y,,0.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-3934.0,1.0,1.0,1.0,0.0,Core staff,2.0,01/11/1993,F,5253183
+F,N,Y,0.0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-2711.0,1.0,0.0,0.0,0.0,Managers,2.0,02/11/1974,W,5840892
+F,N,Y,0.0,157500.0,Commercial associate,Higher education,Married,House / apartment,-1477.0,1.0,1.0,1.0,0.0,,2.0,04/02/1978,U,6758259
+M,N,N,0.0,,State servant,Secondary / secondary special,Single / not married,House / apartment,-105.0,1.0,1.0,1.0,0.0,Security staff,1.0,22/07/1990,N,5297124
+M,Y,Y,0.0,315000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,24/04/1959,Z,5114493
+M,N,N,0.0,450000.0,Working,Secondary / secondary special,Married,House / apartment,-2897.0,1.0,1.0,1.0,1.0,Managers,2.0,18/12/1972,Z,5140141
+F,N,Y,2.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2379.0,1.0,0.0,0.0,0.0,Laborers,4.0,14/08/1987,J,5117248
+F,Y,N,2.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-1016.0,1.0,0.0,0.0,0.0,Laborers,4.0,21/06/1995,W,6059965
+F,Y,Y,2.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-4280.0,1.0,0.0,0.0,0.0,Laborers,4.0,04/11/1989,D,5036606
+M,N,N,0.0,135000.0,Working,Higher education,Married,House / apartment,-900.0,1.0,1.0,1.0,0.0,Laborers,2.0,15/12/1986,F,5988157
+F,N,Y,0.0,153000.0,Commercial associate,Secondary / secondary special,,House / apartment,-5975.0,1.0,0.0,0.0,0.0,Accountants,1.0,26/06/1962,G,6204831
+F,Y,Y,0.0,157500.0,Commercial associate,Higher education,Married,House / apartment,-2370.0,1.0,0.0,0.0,0.0,Accountants,2.0,17/10/1992,W,5344234
+F,Y,N,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-969.0,1.0,0.0,0.0,0.0,,2.0,03/09/1987,C,5735584
+M,N,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1884.0,1.0,0.0,1.0,0.0,Laborers,3.0,30/12/1984,L,5509312
+F,Y,N,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-679.0,1.0,1.0,0.0,0.0,Laborers,2.0,02/01/1985,W,5702909
+F,Y,Y,0.0,135000.0,Working,Higher education,Married,House / apartment,-910.0,1.0,0.0,0.0,1.0,Core staff,2.0,21/07/1994,J,5680437
+F,N,Y,2.0,58500.0,Working,Higher education,Married,House / apartment,-4943.0,1.0,1.0,1.0,0.0,Core staff,4.0,08/04/1986,V,6315923
+F,N,N,0.0,103500.0,Working,Higher education,Married,House / apartment,-827.0,1.0,1.0,0.0,0.0,High skill tech staff,2.0,15/11/1994,O,5237043
+M,N,N,1.0,135000.0,Working,Secondary / secondary special,Separated,With parents,-170.0,1.0,1.0,0.0,0.0,Drivers,2.0,16/11/1994,F,5196550
+,Y,Y,2.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-954.0,1.0,0.0,0.0,0.0,Sales staff,4.0,13/06/1995,X,6639328
+F,N,N,0.0,180000.0,Commercial associate,Secondary / secondary special,Single / not married,Rented apartment,-1144.0,1.0,0.0,0.0,0.0,Core staff,1.0,22/05/1998,W,6492347
+F,N,Y,0.0,157500.0,Working,Secondary / secondary special,Separated,Municipal apartment,-389.0,1.0,0.0,0.0,0.0,,1.0,03/11/1975,T,5529180
+M,N,Y,0.0,90000.0,Commercial associate,Higher education,Married,House / apartment,-899.0,1.0,0.0,0.0,1.0,Managers,2.0,01/10/1963,J,5975835
+M,Y,N,1.0,450000.0,,Secondary / secondary special,Married,House / apartment,-5070.0,1.0,1.0,1.0,0.0,Laborers,3.0,20/06/1974,I,5857501
+M,N,N,0.0,288000.0,State servant,Secondary / secondary special,Married,Office apartment,-1831.0,1.0,1.0,0.0,0.0,Laborers,2.0,29/03/1996,R,5795153
+M,N,Y,1.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1542.0,1.0,0.0,0.0,0.0,Laborers,3.0,12/09/1977,K,5535794
+F,N,Y,1.0,81000.0,Working,Secondary / secondary special,Married,House / apartment,-2554.0,1.0,0.0,1.0,0.0,,3.0,25/06/1981,D,5965174
+F,Y,Y,0.0,94500.0,Working,Secondary / secondary special,Married,House / apartment,-2463.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,25/12/1968,D,5998896
+F,N,Y,0.0,202500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,,16/07/1963,X,6367369
+F,Y,Y,0.0,292500.0,Commercial associate,Higher education,Married,House / apartment,-6001.0,1.0,1.0,1.0,0.0,High skill tech staff,2.0,25/10/1965,T,7513267
+M,Y,Y,2.0,189000.0,Commercial associate,Higher education,Married,House / apartment,-2232.0,1.0,0.0,0.0,0.0,Laborers,4.0,18/04/1982,H,5268729
+M,Y,Y,2.0,315000.0,Working,Secondary / secondary special,Married,House / apartment,-626.0,1.0,0.0,0.0,1.0,Laborers,4.0,06/10/1981,D,5901100
+M,N,Y,0.0,225000.0,Working,Higher education,Married,House / apartment,-1191.0,1.0,0.0,0.0,1.0,Managers,2.0,28/01/1991,U,5278890
+F,N,Y,0.0,135000.0,Working,Incomplete higher,Single / not married,Municipal apartment,-366.0,1.0,0.0,,0.0,Medicine staff,1.0,07/08/1998,W,5581443
+M,Y,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-271.0,1.0,0.0,0.0,0.0,,3.0,15/10/1992,R,5522315
+F,Y,Y,0.0,270000.0,State servant,Higher education,Married,House / apartment,-8230.0,1.0,0.0,0.0,0.0,Managers,2.0,07/03/1978,D,5142243
+F,N,Y,0.0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,10/02/1960,Y,5061287
+,Y,Y,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1451.0,1.0,0.0,0.0,0.0,Sales staff,2.0,11/07/1978,R,6258574
+F,N,N,0.0,121500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,18/11/1958,U,6037243
+,Y,Y,1.0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2377.0,1.0,1.0,1.0,0.0,Drivers,3.0,17/06/1984,J,5154520
+F,Y,N,1.0,900000.0,Working,Higher education,Single / not married,House / apartment,-2460.0,1.0,0.0,0.0,0.0,Managers,2.0,09/04/1979,Q,6763771
+F,N,N,1.0,81000.0,State servant,Higher education,Married,With parents,-2317.0,1.0,0.0,0.0,0.0,Core staff,3.0,01/02/1991,V,6800797
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,18/11/1957,P,5618085
+M,Y,Y,1.0,202500.0,Working,Secondary / secondary special,Married,,,1.0,0.0,0.0,0.0,Security staff,3.0,09/03/1983,G,5805158
+M,N,Y,1.0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-239.0,1.0,0.0,0.0,0.0,Managers,3.0,14/12/1990,P,6763593
+F,N,Y,0.0,225000.0,Pensioner,Higher education,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,11/10/1958,O,6137793
+M,N,Y,0.0,202500.0,Working,Higher education,Married,House / apartment,-2801.0,1.0,0.0,0.0,0.0,Managers,2.0,24/12/1965,D,6047068
+F,N,Y,4.0,135000.0,Working,Secondary / secondary special,Separated,House / apartment,-875.0,1.0,0.0,0.0,0.0,Sales staff,5.0,15/02/1986,D,6472019
+F,Y,Y,1.0,157500.0,Commercial associate,Higher education,Married,House / apartment,-201.0,1.0,0.0,0.0,0.0,,3.0,16/06/1975,B,5135523
+F,N,Y,0.0,180000.0,State servant,Higher education,Married,House / apartment,,1.0,0.0,0.0,0.0,Medicine staff,2.0,04/11/1988,T,6785991
+F,N,N,0.0,99000.0,Working,Higher education,Married,House / apartment,-3252.0,1.0,1.0,0.0,0.0,Laborers,2.0,12/04/1978,J,5906645
+M,Y,N,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-4020.0,1.0,0.0,0.0,0.0,Drivers,3.0,06/02/1978,W,6021980
+F,Y,Y,0.0,121500.0,Working,Higher education,Married,,-1682.0,1.0,0.0,0.0,1.0,Sales staff,2.0,13/05/1995,C,5010564
+F,N,Y,0.0,121500.0,Pensioner,Secondary / secondary special,Married,Office apartment,365243.0,1.0,0.0,1.0,,,2.0,09/08/1963,P,6108353
+M,N,Y,1.0,166500.0,Working,Secondary / secondary special,Married,House / apartment,-271.0,,0.0,0.0,0.0,Sales staff,3.0,29/06/1995,K,6309684
+F,N,Y,3.0,81000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1047.0,1.0,1.0,0.0,0.0,,5.0,18/12/1995,S,6584114
+F,N,Y,0.0,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-8345.0,1.0,0.0,0.0,0.0,Laborers,2.0,22/07/1971,Q,5706764
+F,N,Y,1.0,202500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-2686.0,1.0,0.0,0.0,0.0,Laborers,3.0,29/07/1983,F,6743720
+F,N,N,0.0,81000.0,Working,Secondary / secondary special,Married,House / apartment,-1146.0,1.0,0.0,0.0,0.0,Laborers,2.0,27/09/1987,N,6210389
+F,N,Y,3.0,67500.0,Commercial associate,Secondary / secondary special,,House / apartment,-412.0,1.0,1.0,1.0,0.0,Sales staff,5.0,07/06/1977,S,5104950
+M,Y,Y,2.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-655.0,1.0,0.0,0.0,0.0,Drivers,4.0,12/11/1977,Z,5148861
+F,N,N,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-5480.0,1.0,1.0,0.0,0.0,Managers,3.0,29/11/1973,W,5871898
+F,Y,Y,1.0,112500.0,Working,Secondary / secondary special,Married,Municipal apartment,-7643.0,1.0,0.0,0.0,0.0,Medicine staff,3.0,14/09/1980,W,6618452
+F,N,Y,0.0,315000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3595.0,1.0,0.0,0.0,0.0,Managers,2.0,14/06/1980,G,5401233
+M,N,Y,1.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2257.0,1.0,0.0,0.0,0.0,Drivers,3.0,12/01/1996,T,5542771
+F,N,Y,1.0,123750.0,Working,Higher education,Single / not married,House / apartment,-2497.0,1.0,1.0,1.0,,High skill tech staff,2.0,28/02/1988,L,6052663
+F,N,N,0.0,247500.0,Working,Higher education,Married,House / apartment,-6327.0,1.0,1.0,0.0,0.0,High skill tech staff,2.0,09/03/1983,Q,6351436
+F,N,N,0.0,171000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,09/04/1966,B,5118432
+F,N,Y,2.0,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-7184.0,1.0,0.0,0.0,0.0,Medicine staff,4.0,25/08/1984,Y,6801257
+M,Y,Y,1.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1137.0,1.0,0.0,1.0,0.0,Drivers,3.0,24/04/1990,Q,6125752
+F,N,Y,0.0,135000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1191.0,1.0,0.0,0.0,0.0,Sales staff,1.0,11/01/1964,C,5278996
+F,N,Y,0.0,225000.0,State servant,Secondary / secondary special,Married,,-3745.0,1.0,0.0,1.0,0.0,Core staff,2.0,15/09/1981,M,6022626
+F,Y,N,0.0,99000.0,Pensioner,Lower secondary,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,28/07/1964,Z,5832041
+F,N,Y,0.0,202500.0,,Secondary / secondary special,Married,House / apartment,-2000.0,1.0,0.0,0.0,1.0,,2.0,05/09/1976,R,6242826
+F,N,Y,0.0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-8268.0,1.0,0.0,1.0,0.0,Laborers,2.0,02/11/1980,Z,6154227
+F,N,Y,0.0,202500.0,Working,Higher education,Married,House / apartment,-1138.0,1.0,1.0,1.0,0.0,,2.0,08/12/1984,R,6763899
+F,Y,Y,1.0,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-116.0,1.0,0.0,0.0,0.0,Sales staff,2.0,14/07/1985,D,6685695
+F,N,N,0.0,315000.0,Commercial associate,Higher education,Widow,Municipal apartment,-2980.0,1.0,0.0,1.0,0.0,,1.0,06/06/1975,Z,6508264
+F,N,Y,0.0,450000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6538.0,1.0,0.0,1.0,0.0,Sales staff,2.0,10/11/1966,V,6594797
+F,N,N,0.0,112500.0,Working,Secondary / secondary special,Widow,House / apartment,-864.0,1.0,0.0,1.0,0.0,Sales staff,1.0,26/05/1983,C,6605314
+M,N,N,0.0,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,09/10/1973,B,6690296
+,N,Y,0.0,112500.0,Pensioner,Lower secondary,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,17/03/1964,L,5760809
+F,Y,Y,0.0,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1520.0,1.0,1.0,1.0,0.0,Accountants,2.0,13/01/1966,D,5353819
+F,N,N,1.0,270000.0,Commercial associate,Higher education,Married,House / apartment,-3248.0,1.0,0.0,0.0,0.0,Managers,3.0,24/07/1971,U,6032962
+F,N,N,0.0,67500.0,Working,Secondary / secondary special,Widow,House / apartment,-1947.0,1.0,1.0,1.0,0.0,Medicine staff,1.0,03/06/1971,O,6211708
+F,N,N,0.0,180000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,30/05/1963,E,6792964
+M,Y,Y,0.0,810000.0,Commercial associate,Higher education,Married,House / apartment,-1794.0,1.0,1.0,0.0,0.0,Managers,2.0,10/10/1982,S,5680656
+F,Y,,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-302.0,1.0,0.0,0.0,0.0,High skill tech staff,,16/01/1977,W,5499839
+M,Y,N,0.0,315000.0,Working,Secondary / secondary special,Married,House / apartment,-999.0,1.0,1.0,1.0,0.0,Managers,2.0,16/07/1966,H,5906470
+F,Y,N,0.0,67500.0,,Higher education,Married,House / apartment,-1142.0,1.0,0.0,0.0,0.0,Accountants,2.0,06/08/1995,Q,5838696
+F,N,Y,1.0,202500.0,Working,Incomplete higher,Married,House / apartment,-1100.0,1.0,0.0,1.0,0.0,Sales staff,3.0,19/09/1993,G,5683857
+M,Y,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-372.0,1.0,0.0,0.0,0.0,Laborers,3.0,18/04/1984,C,5731714
+F,N,N,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,25/06/1972,A,6465142
+F,N,N,0.0,144000.0,Commercial associate,Secondary / secondary special,Civil marriage,,-1159.0,1.0,0.0,0.0,0.0,Managers,2.0,08/04/1989,P,6014644
+M,N,Y,2.0,450000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-3632.0,1.0,0.0,0.0,0.0,Managers,4.0,12/08/1976,F,5700396
+F,N,N,1.0,,State servant,Higher education,Civil marriage,House / apartment,-5544.0,1.0,0.0,0.0,0.0,Core staff,3.0,01/09/1981,B,5629218
+F,N,Y,0.0,297000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,13/04/1974,C,6528777
+M,N,N,0.0,202500.0,State servant,Secondary / secondary special,Married,House / apartment,-2462.0,1.0,0.0,0.0,0.0,Laborers,2.0,02/07/1965,Y,7352083
+F,Y,Y,0.0,56250.0,Working,Secondary / secondary special,,House / apartment,-1894.0,1.0,0.0,0.0,0.0,,2.0,09/05/1972,O,5731539
+F,N,Y,0.0,157500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,-10578.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,05/09/1967,O,6277573
+F,N,,2.0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-884.0,1.0,0.0,0.0,0.0,Cleaning staff,4.0,16/12/1986,T,5466687
+M,Y,Y,0.0,220500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,10/11/1959,S,5135631
+F,N,Y,0.0,171000.0,Pensioner,Secondary / secondary special,,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,20/09/1960,F,5936496
+F,N,N,0.0,225000.0,State servant,Secondary / secondary special,Married,House / apartment,-2438.0,1.0,0.0,0.0,0.0,Core staff,2.0,28/01/1986,X,5788452
+F,Y,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1651.0,1.0,,0.0,0.0,Security staff,2.0,30/07/1961,I,5994875
+F,Y,N,0.0,315000.0,Working,Secondary / secondary special,Married,Municipal apartment,-1615.0,1.0,0.0,0.0,1.0,Realty agents,2.0,11/03/1969,K,6692574
+M,N,Y,1.0,175500.0,Commercial associate,Incomplete higher,Married,House / apartment,-2428.0,1.0,0.0,0.0,1.0,Sales staff,3.0,23/08/1995,X,6472235
+F,N,Y,0.0,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-5348.0,1.0,0.0,0.0,0.0,Sales staff,2.0,03/01/1975,H,6560198
+F,N,Y,0.0,81000.0,Working,Secondary / secondary special,Separated,House / apartment,-1081.0,1.0,,0.0,0.0,Sales staff,1.0,24/03/1969,T,5975930
+F,N,Y,0.0,,Working,Higher education,Single / not married,House / apartment,-1480.0,1.0,0.0,0.0,0.0,Sales staff,1.0,18/01/1989,F,5197025
+F,Y,Y,2.0,112500.0,Working,Higher education,Married,House / apartment,-1100.0,1.0,1.0,1.0,0.0,Accountants,4.0,20/07/1990,W,5400772
+F,N,Y,0.0,315000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,02/02/1966,V,6513542
+F,N,Y,0.0,157500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1702.0,1.0,0.0,0.0,1.0,Sales staff,1.0,24/06/1970,E,6659341
+M,Y,Y,2.0,180000.0,Working,Secondary / secondary special,Separated,House / apartment,-292.0,,0.0,0.0,0.0,Managers,3.0,05/08/1983,G,6079919
+F,Y,Y,0.0,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1002.0,1.0,0.0,1.0,0.0,Medicine staff,1.0,12/02/1998,R,6140173
+F,N,Y,0.0,180000.0,Pensioner,Secondary / secondary special,,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,20/07/1971,G,5284435
+F,Y,Y,0.0,180000.0,Working,Incomplete higher,,House / apartment,-2194.0,1.0,0.0,1.0,0.0,Private service staff,2.0,18/02/1996,M,6563368
+F,N,Y,0.0,247500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4771.0,1.0,0.0,0.0,0.0,Cooking staff,2.0,12/11/1989,H,6697783
+F,N,Y,0.0,112500.0,Pensioner,Higher education,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,10/07/1963,E,6268662
+F,N,Y,2.0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-6237.0,1.0,1.0,1.0,0.0,Medicine staff,4.0,26/11/1979,A,5054758
+F,N,Y,0.0,180000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-99.0,1.0,0.0,0.0,0.0,Sales staff,2.0,01/04/1978,A,6231739
+F,N,N,0.0,157500.0,Working,Secondary / secondary special,Married,Municipal apartment,-9967.0,1.0,0.0,0.0,0.0,Laborers,2.0,,Q,6021391
+M,Y,N,1.0,216000.0,Working,Higher education,Married,House / apartment,-4079.0,1.0,0.0,1.0,0.0,Accountants,3.0,02/02/1986,Q,5297573
+,Y,Y,0.0,,Working,Secondary / secondary special,Widow,House / apartment,-2075.0,1.0,0.0,0.0,0.0,,1.0,23/07/1980,A,6152869
+F,Y,N,0.0,675000.0,State servant,Higher education,Married,House / apartment,-3889.0,1.0,0.0,1.0,0.0,,2.0,21/09/1971,G,6224222
+,Y,N,0.0,270000.0,State servant,Higher education,Married,House / apartment,-606.0,1.0,0.0,1.0,1.0,Accountants,2.0,16/06/1979,C,6351350
+F,Y,N,0.0,112500.0,Pensioner,Higher education,Married,House / apartment,,1.0,0.0,1.0,,,2.0,02/12/1957,Y,5260534
+F,Y,Y,0.0,270000.0,Commercial associate,Higher education,Married,House / apartment,-2227.0,1.0,0.0,0.0,0.0,Managers,2.0,26/06/1980,E,6583374
+F,N,N,,81000.0,Working,Secondary / secondary special,Married,House / apartment,-4330.0,1.0,1.0,1.0,0.0,Sales staff,2.0,06/11/1980,X,5884061
+M,N,N,1.0,315000.0,Commercial associate,Higher education,Married,House / apartment,-3462.0,1.0,0.0,1.0,0.0,,3.0,20/10/1990,N,6112491
+M,N,Y,1.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-164.0,1.0,0.0,0.0,1.0,Laborers,3.0,08/04/1996,P,5314090
+F,N,Y,0.0,225000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,,1.0,,1.0,05/08/1968,O,6232671
+F,N,Y,0.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-1240.0,1.0,0.0,0.0,0.0,Cooking staff,2.0,24/01/1976,J,6670927
+F,N,N,1.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1990.0,1.0,,0.0,0.0,Sales staff,3.0,29/08/1985,B,6119443
+M,N,Y,0.0,112500.0,Commercial associate,Incomplete higher,Single / not married,House / apartment,-917.0,1.0,0.0,0.0,0.0,Drivers,1.0,21/11/1998,Y,6358482
+,N,N,0.0,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,-1990.0,1.0,0.0,1.0,0.0,,1.0,05/04/1987,B,5513453
+F,Y,Y,1.0,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-213.0,1.0,1.0,0.0,0.0,,3.0,28/09/1985,H,6280705
+M,Y,Y,,247500.0,Working,Secondary / secondary special,Married,House / apartment,-5025.0,1.0,0.0,0.0,0.0,Laborers,2.0,02/12/1988,C,5956019
+F,N,Y,0.0,,,Secondary / secondary special,Married,House / apartment,-995.0,1.0,0.0,0.0,1.0,Cleaning staff,2.0,,O,5742581
+F,Y,Y,2.0,270000.0,Commercial associate,Higher education,Married,House / apartment,-575.0,1.0,0.0,0.0,0.0,Managers,4.0,09/11/1992,T,6686294
+M,Y,Y,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-4524.0,1.0,0.0,1.0,1.0,Laborers,,28/03/1973,U,6235028
+F,N,Y,0.0,121500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-6079.0,1.0,1.0,0.0,0.0,Laborers,2.0,,O,6229485
+M,Y,N,,270000.0,Working,Secondary / secondary special,Married,House / apartment,-8908.0,1.0,0.0,1.0,0.0,,3.0,10/01/1976,T,6108945
+F,N,N,0.0,157500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,06/11/1963,X,5269123
+M,Y,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2021.0,1.0,0.0,0.0,0.0,,2.0,04/04/1971,L,5132608
+F,N,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-3525.0,1.0,0.0,1.0,1.0,Medicine staff,2.0,27/03/1979,G,6088982
+F,N,N,0.0,157500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,27/01/1958,N,6186227
+F,N,Y,0.0,144000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-980.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,11/01/1963,B,6403649
+F,N,N,0.0,81000.0,Working,Secondary / secondary special,Married,House / apartment,-3199.0,1.0,1.0,1.0,0.0,Sales staff,2.0,19/02/1986,T,5841314
+F,N,N,0.0,157500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-1330.0,1.0,1.0,1.0,0.0,Laborers,1.0,12/10/1999,P,5537780
+M,Y,N,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,18/08/1976,C,6448013
+F,N,Y,1.0,157500.0,,Secondary / secondary special,Married,House / apartment,-3340.0,1.0,0.0,0.0,1.0,Waiters/barmen staff,3.0,17/05/1989,S,5343394
+F,N,Y,,67500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3447.0,1.0,0.0,0.0,0.0,Cleaning staff,2.0,26/04/1969,W,5548198
+F,N,Y,2.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-383.0,1.0,0.0,0.0,0.0,Private service staff,4.0,19/12/1987,B,5905341
+F,N,Y,0.0,270000.0,Working,Higher education,Single / not married,House / apartment,-934.0,1.0,0.0,0.0,1.0,Managers,1.0,01/01/1997,R,6241540
+M,Y,N,3.0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1337.0,1.0,0.0,0.0,0.0,Laborers,5.0,04/12/1988,Y,6140116
+F,N,N,0.0,270000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-2558.0,1.0,0.0,0.0,0.0,High skill tech staff,1.0,20/08/1960,O,5024572
+F,N,Y,1.0,216000.0,Working,Higher education,Married,Municipal apartment,-441.0,1.0,0.0,0.0,0.0,Laborers,3.0,12/09/1986,E,5981749
+M,N,Y,0.0,225000.0,Working,Secondary / secondary special,Married,,-1182.0,1.0,0.0,1.0,0.0,Laborers,2.0,01/01/1990,F,6685382
+F,Y,Y,1.0,67500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1095.0,1.0,1.0,1.0,0.0,Core staff,3.0,21/11/1994,V,6281055
+F,N,Y,1.0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4208.0,1.0,0.0,0.0,0.0,,3.0,01/10/1976,F,6240896
+F,N,N,0.0,85500.0,Working,Secondary / secondary special,Civil marriage,,-1859.0,1.0,0.0,0.0,0.0,Cleaning staff,2.0,02/08/1987,H,6631064
+F,N,Y,0.0,117000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,07/10/1960,W,5839081
+M,Y,Y,0.0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2997.0,1.0,0.0,0.0,0.0,Drivers,2.0,05/08/1976,D,6122392
+M,Y,Y,1.0,135000.0,Commercial associate,Higher education,Married,House / apartment,-948.0,1.0,0.0,0.0,0.0,Drivers,3.0,26/04/1992,E,5474931
+M,Y,Y,0.0,562500.0,State servant,Higher education,Single / not married,House / apartment,-5737.0,1.0,0.0,0.0,0.0,Core staff,1.0,18/01/1976,V,6723405
+F,N,Y,1.0,112500.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-1979.0,1.0,0.0,0.0,0.0,Laborers,3.0,22/02/1984,X,6688949
+M,N,Y,0.0,180000.0,Commercial associate,Higher education,Married,House / apartment,-301.0,1.0,0.0,0.0,0.0,Laborers,2.0,15/10/1985,P,6051393
+M,Y,Y,1.0,112500.0,Working,Higher education,Married,House / apartment,-334.0,1.0,0.0,0.0,0.0,,3.0,21/07/1981,D,5752347
+F,N,Y,1.0,180000.0,Commercial associate,Higher education,,House / apartment,-1406.0,1.0,0.0,0.0,0.0,High skill tech staff,3.0,16/05/1980,H,6702580
+M,N,Y,1.0,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3712.0,1.0,0.0,0.0,0.0,Laborers,3.0,22/06/1984,Q,6617815
+F,N,Y,0.0,103500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-7050.0,1.0,0.0,1.0,0.0,Sales staff,2.0,29/03/1972,A,6132146
+F,N,Y,0.0,135000.0,Working,Secondary / secondary special,Separated,House / apartment,-1588.0,1.0,0.0,0.0,0.0,Core staff,1.0,30/01/1975,C,5361683
+F,N,Y,0.0,90000.0,Pensioner,,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,24/03/1956,G,6491797
+F,Y,Y,0.0,202500.0,Commercial associate,Higher education,Married,House / apartment,-2670.0,1.0,0.0,1.0,0.0,,2.0,12/06/1959,D,5994062
+F,Y,N,0.0,135000.0,Working,Higher education,Single / not married,Co-op apartment,-1605.0,1.0,0.0,0.0,1.0,Core staff,1.0,04/09/1995,C,6273143
+F,N,N,0.0,162000.0,Working,Higher education,Married,House / apartment,,1.0,0.0,1.0,0.0,Managers,2.0,18/10/1974,A,7603620
+F,N,Y,0.0,180000.0,,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,12/07/1959,V,6035931
+F,N,Y,1.0,225000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,-916.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,08/01/1991,L,5155156
+F,N,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-6031.0,1.0,0.0,0.0,0.0,,2.0,22/07/1985,R,6800920
+M,N,N,0.0,157500.0,Working,Secondary / secondary special,Married,Rented apartment,-3574.0,1.0,1.0,1.0,0.0,Laborers,2.0,16/01/1990,R,5125641
+F,N,Y,1.0,130500.0,Working,Secondary / secondary special,Married,House / apartment,-9127.0,1.0,0.0,0.0,0.0,Laborers,3.0,25/02/1977,L,7601685
+M,N,N,0.0,225000.0,Pensioner,,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,29/12/1968,H,6123170
+F,Y,Y,1.0,360000.0,State servant,Higher education,Married,House / apartment,-1829.0,1.0,0.0,0.0,0.0,Medicine staff,3.0,23/04/1988,V,5980601
+F,Y,Y,0.0,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-6054.0,1.0,1.0,1.0,0.0,Accountants,2.0,15/11/1978,I,5405194
+F,N,N,0.0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-1540.0,1.0,0.0,0.0,0.0,Core staff,2.0,02/09/1978,V,5067311
+,N,Y,0.0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-979.0,1.0,0.0,0.0,0.0,,1.0,25/03/1969,X,5888800
+F,N,Y,,112500.0,Working,Higher education,Married,House / apartment,-534.0,1.0,1.0,0.0,0.0,Managers,2.0,25/03/1990,I,5857146
+F,N,Y,0.0,202500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,12/03/1959,V,6063075
+F,N,Y,0.0,103500.0,Working,Higher education,Single / not married,House / apartment,-850.0,1.0,0.0,1.0,0.0,Sales staff,1.0,15/12/1997,D,5417478
+F,Y,N,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1715.0,1.0,0.0,0.0,0.0,Core staff,,06/12/1987,K,5258591
+F,Y,Y,0.0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3447.0,1.0,0.0,0.0,0.0,Waiters/barmen staff,1.0,27/04/1970,P,6781925
+F,N,Y,0.0,216000.0,Working,Secondary / secondary special,Married,House / apartment,-4779.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,09/12/1972,P,5943032
+M,Y,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-6639.0,1.0,0.0,0.0,0.0,Core staff,2.0,05/05/1986,I,5048245
+F,N,Y,0.0,211500.0,Working,Secondary / secondary special,Widow,House / apartment,-2032.0,1.0,0.0,0.0,0.0,Laborers,1.0,12/07/1968,D,6687959
+M,N,Y,0.0,216000.0,Working,Secondary / secondary special,Married,House / apartment,-1790.0,1.0,0.0,0.0,0.0,Laborers,2.0,28/04/1955,D,5867658
+F,N,Y,0.0,225000.0,Working,Higher education,Married,House / apartment,-10808.0,1.0,0.0,0.0,0.0,Managers,2.0,08/01/1971,F,5788831
+F,N,Y,0.0,,Working,Secondary / secondary special,Married,House / apartment,-15488.0,1.0,1.0,1.0,0.0,,2.0,30/03/1962,Y,6049982
+F,Y,Y,0.0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1029.0,1.0,0.0,0.0,0.0,Sales staff,1.0,26/11/1995,T,6594402
+F,N,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,03/03/1965,I,5029172
+F,N,N,0.0,89550.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,,,1.0,01/01/1959,U,5036481
+F,N,Y,0.0,112500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-1236.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,13/02/1967,N,5879569
+,N,N,0.0,162000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-4032.0,1.0,1.0,0.0,0.0,Core staff,2.0,19/11/1985,S,5126420
+M,Y,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-1643.0,1.0,1.0,0.0,0.0,Security staff,2.0,,Y,5636643
+M,N,N,0.0,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-4085.0,1.0,0.0,0.0,0.0,Laborers,2.0,06/02/1993,F,6631195
+F,N,Y,0.0,135000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,-1108.0,1.0,0.0,0.0,1.0,Medicine staff,1.0,09/04/1971,S,6577865
+M,Y,,0.0,157500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1807.0,1.0,0.0,1.0,0.0,Drivers,2.0,07/08/1972,F,6790480
+F,N,N,0.0,112500.0,Pensioner,Higher education,Separated,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,10/04/1978,C,6722736
+F,N,Y,,90000.0,State servant,Higher education,Married,House / apartment,-543.0,1.0,1.0,1.0,0.0,Core staff,2.0,17/12/1987,Q,5058246
+F,Y,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-978.0,1.0,0.0,0.0,0.0,Sales staff,2.0,25/09/1974,V,5474675
+F,N,Y,0.0,90000.0,Pensioner,Higher education,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,07/01/1958,K,6132344
+F,N,Y,1.0,360000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-482.0,1.0,1.0,0.0,0.0,Laborers,3.0,13/04/1981,M,6092687
+F,N,Y,0.0,108000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,19/03/1960,C,5344503
+F,Y,Y,0.0,157500.0,Commercial associate,Higher education,Married,House / apartment,-2963.0,1.0,0.0,1.0,0.0,,2.0,20/04/1978,W,6132877
+F,N,Y,0.0,40500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-398.0,1.0,0.0,0.0,0.0,Sales staff,2.0,02/02/1974,F,6288809
+F,N,N,0.0,315000.0,Commercial associate,Higher education,Single / not married,House / apartment,-481.0,1.0,0.0,0.0,0.0,Managers,1.0,06/12/1994,F,5439289
+F,Y,N,0.0,,Working,Secondary / secondary special,Single / not married,House / apartment,-1695.0,,0.0,0.0,1.0,,1.0,12/04/1995,L,6033707
+F,Y,Y,1.0,180000.0,Working,Higher education,Married,House / apartment,-3756.0,1.0,0.0,0.0,0.0,Managers,3.0,11/10/1989,F,6375611
+F,N,Y,0.0,166500.0,Working,Incomplete higher,Separated,House / apartment,-2303.0,,0.0,0.0,1.0,Accountants,1.0,06/10/1981,I,6229859
+F,N,Y,1.0,315000.0,Working,Higher education,Married,House / apartment,-2421.0,1.0,0.0,0.0,1.0,Core staff,3.0,27/09/1975,G,5901130
+M,Y,N,0.0,,Working,Secondary / secondary special,Married,House / apartment,-1206.0,1.0,0.0,0.0,0.0,Drivers,2.0,05/01/1996,Y,6484779
+M,Y,N,,202500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1026.0,1.0,0.0,0.0,1.0,,4.0,06/01/1989,J,6229853
+F,N,Y,1.0,270000.0,,Secondary / secondary special,Married,House / apartment,-3073.0,1.0,0.0,1.0,0.0,,3.0,30/04/1976,M,6394538
+F,N,Y,0.0,252000.0,Working,Higher education,Civil marriage,House / apartment,-1142.0,1.0,1.0,1.0,1.0,,2.0,07/11/1995,K,6464094
+M,N,Y,1.0,180000.0,Working,Higher education,Civil marriage,House / apartment,-833.0,1.0,,0.0,0.0,Laborers,3.0,11/04/1996,J,5552207
+M,N,Y,0.0,202500.0,,Secondary / secondary special,Married,House / apartment,-648.0,1.0,0.0,1.0,0.0,Laborers,2.0,29/03/1975,D,5340212
+F,Y,Y,,,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,,0.0,0.0,,2.0,25/02/1965,X,5087576
+M,Y,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2779.0,1.0,0.0,1.0,0.0,Managers,2.0,21/06/1979,T,6752660
+M,Y,Y,1.0,171000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-194.0,1.0,0.0,1.0,0.0,,3.0,19/04/1980,M,5710901
+F,N,N,0.0,157500.0,Working,Secondary / secondary special,Single / not married,With parents,-1039.0,1.0,0.0,0.0,0.0,Sales staff,1.0,11/06/1998,U,5095357
+F,N,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-4752.0,1.0,1.0,0.0,0.0,Managers,2.0,02/12/1978,O,5474611
+,N,Y,0.0,,Pensioner,Secondary / secondary special,Married,House / apartment,,1.0,0.0,0.0,1.0,,2.0,02/11/1958,N,6296909
+M,N,Y,0.0,315000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-4034.0,1.0,0.0,0.0,0.0,Managers,2.0,14/11/1973,T,7085779
+F,N,Y,0.0,121500.0,Working,Higher education,Married,House / apartment,-1274.0,1.0,0.0,0.0,0.0,,2.0,,C,5804928
+F,Y,Y,0.0,315000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1658.0,1.0,0.0,0.0,0.0,Laborers,2.0,11/03/1972,I,6273708
+F,Y,Y,1.0,139500.0,Working,Incomplete higher,Widow,House / apartment,-684.0,1.0,1.0,0.0,0.0,Core staff,2.0,23/02/1993,K,6722690
+M,N,Y,0.0,270000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-12389.0,1.0,0.0,0.0,0.0,Laborers,2.0,07/11/1967,M,5891325
+F,N,Y,2.0,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-7342.0,1.0,0.0,1.0,0.0,Medicine staff,4.0,03/01/1985,P,6076890
+M,Y,N,0.0,279000.0,Working,Higher education,Single / not married,Office apartment,-2048.0,1.0,0.0,0.0,1.0,,1.0,15/12/1973,H,6752880
+F,N,Y,0.0,315000.0,State servant,Higher education,Single / not married,House / apartment,-5416.0,1.0,0.0,0.0,0.0,Core staff,,30/12/1970,Y,6731654
+F,N,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,11/07/1963,S,5671318
+F,Y,Y,0.0,157500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-1002.0,1.0,0.0,1.0,0.0,Medicine staff,1.0,12/02/1998,Y,6140170
+F,,Y,3.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1580.0,1.0,0.0,0.0,0.0,Cooking staff,5.0,04/11/1989,O,5999084
+F,Y,N,3.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3242.0,1.0,1.0,0.0,0.0,Sales staff,5.0,,Y,5061086
+M,N,Y,0.0,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-793.0,1.0,0.0,0.0,0.0,Drivers,1.0,25/08/1979,Z,5267661
+M,,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-183.0,1.0,0.0,0.0,0.0,Laborers,,15/03/1994,A,5820256
+,N,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2939.0,1.0,0.0,1.0,0.0,Laborers,3.0,10/09/1980,H,5193917
+F,N,N,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-2054.0,1.0,0.0,0.0,0.0,Laborers,2.0,05/02/1976,Q,6277247
+F,N,N,0.0,171000.0,Working,Incomplete higher,Single / not married,House / apartment,-219.0,1.0,1.0,0.0,0.0,High skill tech staff,1.0,01/09/1998,V,5181098
+F,N,Y,0.0,,Commercial associate,Secondary / secondary special,Married,House / apartment,-5172.0,1.0,0.0,0.0,0.0,Laborers,2.0,18/09/1979,E,5208302
+M,N,N,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,,1.0,0.0,0.0,0.0,Drivers,2.0,14/09/1972,T,6449046
+F,N,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,,0.0,,1.0,26/02/1961,Y,5981549
+,Y,Y,0.0,76500.0,Working,Secondary / secondary special,Married,House / apartment,-2263.0,1.0,1.0,1.0,0.0,Laborers,2.0,16/05/1973,X,5115702
+F,Y,Y,0.0,315000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-272.0,1.0,0.0,1.0,1.0,Managers,2.0,24/05/1983,A,6140961
+F,Y,Y,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2833.0,1.0,0.0,0.0,0.0,Laborers,2.0,03/09/1978,O,5278636
+F,Y,N,1.0,270000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-121.0,1.0,1.0,0.0,0.0,Managers,3.0,07/12/1978,G,6094234
+M,,Y,0.0,337500.0,Commercial associate,Secondary / secondary special,,House / apartment,-1379.0,1.0,0.0,0.0,0.0,Sales staff,2.0,20/10/1982,U,5010959
+F,N,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-177.0,1.0,0.0,0.0,0.0,Sales staff,1.0,30/08/1994,W,5185981
+F,N,N,0.0,90000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1544.0,1.0,,1.0,0.0,Cooking staff,2.0,25/10/1991,C,6243514
+F,Y,Y,2.0,117000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-254.0,1.0,0.0,0.0,0.0,Sales staff,4.0,01/08/1982,C,5258402
+F,N,Y,0.0,360000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2802.0,1.0,1.0,0.0,0.0,Laborers,1.0,26/06/1990,O,6448997
+F,N,Y,0.0,450000.0,Working,Higher education,Married,,-3004.0,1.0,0.0,1.0,,Sales staff,2.0,04/04/1984,J,6485564
+F,N,N,0.0,180000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,26/09/1962,D,5336852
+F,N,Y,0.0,135000.0,Pensioner,,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,20/11/1962,J,6424911
+M,N,N,0.0,94500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-138.0,1.0,0.0,0.0,0.0,Waiters/barmen staff,1.0,18/07/1995,Z,6465193
+F,N,Y,0.0,94500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,10/08/1971,L,6671179
+F,N,Y,0.0,72000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,25/09/1961,F,5731697
+F,N,Y,1.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-807.0,1.0,0.0,0.0,0.0,Sales staff,3.0,08/02/1977,A,5205509
+F,N,Y,0.0,153000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,10/04/1957,T,6778607
+F,N,Y,1.0,180000.0,Commercial associate,Higher education,Married,House / apartment,-3010.0,1.0,0.0,0.0,0.0,Managers,3.0,20/12/1993,E,6658812
+M,Y,N,0.0,58500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,20/12/1962,M,6154267
+F,N,Y,1.0,112500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-369.0,1.0,0.0,0.0,0.0,,2.0,,G,6031794
+F,Y,Y,1.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2463.0,1.0,0.0,0.0,1.0,Sales staff,3.0,05/12/1989,C,6396654
+F,N,Y,0.0,130500.0,,Secondary / secondary special,Single / not married,House / apartment,-1050.0,1.0,1.0,1.0,0.0,Sales staff,1.0,,T,6208765
+F,N,Y,1.0,121500.0,Working,Higher education,Married,House / apartment,-923.0,1.0,0.0,0.0,0.0,,3.0,,P,5258477
+F,Y,Y,0.0,135000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,15/12/1962,F,5136005
+F,N,Y,1.0,67500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-689.0,1.0,0.0,0.0,0.0,Sales staff,3.0,03/01/1983,Y,6415483
+M,Y,N,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-310.0,1.0,0.0,0.0,0.0,Laborers,2.0,09/03/1970,I,5453875
+M,Y,Y,2.0,,Commercial associate,Secondary / secondary special,Married,House / apartment,-226.0,1.0,0.0,0.0,0.0,Laborers,4.0,06/10/1988,V,6163078
+F,Y,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-7731.0,1.0,0.0,0.0,0.0,,2.0,12/11/1976,P,6052522
+F,N,Y,1.0,67500.0,Working,Secondary / secondary special,Married,House / apartment,-3588.0,1.0,0.0,0.0,0.0,,3.0,01/12/1978,H,6575027
+F,N,Y,0.0,126000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,27/06/1966,M,6476899
+F,N,Y,0.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-2254.0,1.0,0.0,0.0,0.0,,2.0,08/05/1958,M,5464996
+F,N,N,0.0,162000.0,Working,Secondary / secondary special,Widow,House / apartment,-6661.0,1.0,0.0,0.0,0.0,Core staff,1.0,12/10/1964,U,5408267
+F,N,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-1406.0,1.0,0.0,0.0,0.0,Sales staff,1.0,25/01/1968,W,5976647
+M,N,Y,0.0,247500.0,State servant,Higher education,Married,House / apartment,-2287.0,1.0,0.0,0.0,0.0,,2.0,24/10/1995,Q,5156720
+F,N,Y,1.0,67500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-4770.0,1.0,0.0,0.0,0.0,Sales staff,2.0,14/05/1991,V,6189640
+F,Y,Y,0.0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,14/08/1962,X,6829433
+M,Y,N,2.0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1940.0,1.0,0.0,0.0,1.0,Laborers,4.0,18/03/1994,I,5797169
+F,N,Y,1.0,225000.0,Working,Higher education,Married,House / apartment,-3724.0,1.0,0.0,0.0,0.0,Accountants,3.0,09/03/1982,M,5403480
+M,N,Y,1.0,103500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-413.0,1.0,0.0,0.0,0.0,Drivers,3.0,30/01/1990,T,5873550
+F,N,,0.0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,28/02/1958,C,5425034
+M,Y,N,1.0,126000.0,Working,Secondary / secondary special,Married,Municipal apartment,-5175.0,1.0,0.0,1.0,0.0,Drivers,3.0,15/08/1976,F,6618445
+M,Y,N,0.0,360000.0,Working,Secondary / secondary special,Married,Municipal apartment,-358.0,1.0,1.0,0.0,0.0,Laborers,2.0,19/05/1992,O,6499098
+M,Y,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Married,,-1495.0,1.0,0.0,0.0,,,2.0,01/09/1981,H,5180904
+M,N,Y,0.0,202500.0,,Secondary / secondary special,Married,House / apartment,-2588.0,1.0,0.0,0.0,0.0,Core staff,2.0,01/07/1986,T,6800650
+M,Y,N,0.0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2712.0,1.0,1.0,0.0,0.0,Laborers,1.0,26/11/1993,I,5924073
+M,Y,Y,0.0,112500.0,Working,Higher education,Single / not married,House / apartment,-1035.0,1.0,0.0,0.0,1.0,Sales staff,1.0,08/12/1995,S,5189646
+F,N,Y,0.0,76500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,26/11/1962,X,5581487
+F,N,N,1.0,112500.0,Commercial associate,Higher education,Married,House / apartment,-368.0,1.0,0.0,,0.0,Core staff,3.0,14/10/1989,N,5866146
+M,Y,Y,0.0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-1919.0,1.0,0.0,0.0,0.0,Laborers,2.0,29/11/1969,C,6570476
+M,Y,Y,2.0,360000.0,Working,Higher education,Married,House / apartment,-2756.0,1.0,,0.0,0.0,Managers,4.0,10/05/1982,A,6509201
+M,Y,Y,0.0,157500.0,Commercial associate,Higher education,Single / not married,With parents,-4596.0,1.0,0.0,1.0,1.0,Laborers,1.0,16/11/1991,Z,6046974
+F,N,N,1.0,270000.0,Commercial associate,Higher education,Married,House / apartment,-225.0,1.0,0.0,0.0,0.0,Core staff,3.0,25/08/1990,T,6060584
+M,Y,Y,1.0,180000.0,Commercial associate,Higher education,Married,House / apartment,-1775.0,1.0,0.0,0.0,0.0,,3.0,13/11/1995,O,5115626
+F,N,N,0.0,54000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,19/09/1964,K,5867676
+F,N,Y,0.0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-425.0,1.0,0.0,0.0,0.0,,2.0,20/08/1965,A,5752697
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,30/04/1960,R,5384273
+F,N,,0.0,159750.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,19/09/1959,G,7778285
+M,N,N,1.0,171000.0,Working,Secondary / secondary special,Married,House / apartment,-4269.0,1.0,1.0,0.0,0.0,Laborers,3.0,18/04/1986,E,5502359
+M,Y,Y,1.0,180000.0,Working,Higher education,Married,House / apartment,-2538.0,1.0,0.0,0.0,0.0,,3.0,15/05/1983,F,6639477
+F,N,N,0.0,112500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-1704.0,1.0,1.0,1.0,0.0,Sales staff,1.0,13/10/1972,U,5761957
+F,N,Y,0.0,123750.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3346.0,1.0,0.0,1.0,0.0,Laborers,2.0,22/03/1983,O,5353866
+M,Y,Y,0.0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3590.0,1.0,0.0,0.0,0.0,Managers,1.0,07/11/1983,M,6346081
+F,N,Y,0.0,157500.0,Working,Higher education,Married,House / apartment,-3884.0,1.0,0.0,1.0,0.0,Managers,2.0,18/10/1963,Q,6792651
+F,N,Y,0.0,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,22/04/1963,S,5010411
+M,N,N,0.0,202500.0,Working,Higher education,Married,House / apartment,-788.0,1.0,1.0,0.0,0.0,Drivers,2.0,11/03/1991,D,6731341
+F,N,Y,0.0,202500.0,State servant,Higher education,Married,House / apartment,-7707.0,1.0,0.0,0.0,0.0,Core staff,2.0,20/03/1967,K,5236026
+F,N,N,0.0,67500.0,State servant,Higher education,Married,,-3869.0,1.0,0.0,0.0,0.0,Core staff,2.0,06/12/1993,P,5971204
+F,N,Y,0.0,157500.0,Commercial associate,Higher education,Single / not married,House / apartment,-991.0,1.0,0.0,0.0,0.0,Sales staff,1.0,03/07/1968,L,6079131
+F,N,Y,0.0,135000.0,Commercial associate,Higher education,Separated,House / apartment,-472.0,1.0,0.0,0.0,0.0,,1.0,07/04/1990,V,6779269
+F,Y,N,0.0,157500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,09/01/1966,K,5501274
+F,,Y,1.0,180000.0,Commercial associate,Higher education,Married,,-2920.0,1.0,0.0,0.0,0.0,High skill tech staff,3.0,06/04/1988,Y,5565525
+M,Y,N,1.0,171000.0,Working,Secondary / secondary special,Married,House / apartment,-518.0,1.0,0.0,0.0,0.0,Laborers,3.0,20/07/1992,I,5365024
+F,Y,Y,0.0,202500.0,Commercial associate,Higher education,Single / not married,With parents,-2774.0,1.0,0.0,0.0,0.0,Medicine staff,1.0,08/08/1996,L,6571356
+F,,Y,0.0,139500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,07/06/1960,X,5919666
+M,N,Y,1.0,202500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,3.0,06/03/1965,K,5726535
+F,N,Y,1.0,144000.0,Working,Higher education,Separated,House / apartment,-368.0,1.0,0.0,0.0,0.0,,2.0,22/01/1976,B,6519660
+F,N,Y,0.0,202500.0,Commercial associate,Higher education,Married,House / apartment,-1945.0,1.0,0.0,0.0,0.0,Accountants,2.0,10/11/1970,C,6248515
+F,N,Y,0.0,67500.0,State servant,Secondary / secondary special,Married,House / apartment,-1425.0,1.0,1.0,1.0,0.0,Medicine staff,2.0,05/07/1989,P,6074294
+M,Y,Y,0.0,202500.0,State servant,Higher education,Married,House / apartment,-11988.0,1.0,0.0,0.0,1.0,Core staff,2.0,17/07/1963,O,6138672
+F,Y,Y,0.0,126000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,23/03/1966,Q,5536331
+F,Y,N,0.0,270000.0,Commercial associate,Higher education,Single / not married,House / apartment,-2713.0,1.0,0.0,0.0,0.0,Managers,1.0,13/03/1993,M,6358546
+F,Y,Y,0.0,391500.0,Working,Secondary / secondary special,Married,House / apartment,-7264.0,1.0,0.0,0.0,0.0,Core staff,2.0,10/08/1976,S,5067240
+F,N,Y,0.0,126000.0,State servant,Higher education,Civil marriage,House / apartment,-11414.0,1.0,,0.0,0.0,Core staff,2.0,21/03/1968,A,6582392
+F,Y,N,0.0,247500.0,Commercial associate,Higher education,Single / not married,House / apartment,-1100.0,1.0,0.0,0.0,0.0,,1.0,27/01/1991,M,5223570
+M,Y,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1488.0,1.0,0.0,0.0,0.0,Drivers,3.0,05/08/1977,X,6336366
+F,N,N,0.0,67500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-136.0,1.0,1.0,0.0,0.0,Sales staff,1.0,28/01/2000,P,5633584
+F,,Y,0.0,162000.0,Working,Secondary / secondary special,Married,House / apartment,-1723.0,1.0,0.0,0.0,1.0,Sales staff,,18/10/1977,B,5576023
+M,Y,Y,0.0,189000.0,Commercial associate,Higher education,Single / not married,House / apartment,-596.0,1.0,0.0,0.0,0.0,,1.0,10/02/1996,K,6078828
+F,N,Y,1.0,135000.0,Commercial associate,Secondary / secondary special,,With parents,-1588.0,1.0,0.0,0.0,,Laborers,2.0,28/12/1983,O,5609873
+F,N,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-426.0,1.0,1.0,0.0,0.0,Laborers,2.0,15/03/1991,K,5189634
+F,N,Y,0.0,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-6026.0,1.0,0.0,0.0,0.0,,2.0,28/12/1969,Z,6621034
+F,Y,Y,0.0,450000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-1448.0,1.0,0.0,0.0,0.0,Accountants,2.0,14/11/1968,W,6411660
+F,N,Y,0.0,216000.0,Working,Secondary / secondary special,,House / apartment,-2557.0,1.0,0.0,1.0,1.0,Private service staff,1.0,15/01/1972,J,6692748
+F,N,Y,0.0,157500.0,Working,Higher education,Single / not married,House / apartment,-1374.0,1.0,0.0,0.0,0.0,Sales staff,1.0,22/05/1981,S,6501349
+M,Y,Y,2.0,337500.0,State servant,Higher education,Married,Office apartment,-4252.0,1.0,0.0,0.0,0.0,Core staff,4.0,26/06/1991,E,5739529
+F,N,Y,0.0,81000.0,Working,Secondary / secondary special,Married,House / apartment,-3046.0,1.0,1.0,1.0,0.0,Managers,2.0,23/04/1969,S,5116793
+M,N,N,0.0,220500.0,Commercial associate,Lower secondary,Married,House / apartment,-759.0,1.0,1.0,1.0,0.0,Laborers,2.0,12/03/1986,M,6272776
+M,N,Y,1.0,117000.0,State servant,Higher education,Married,With parents,-1921.0,1.0,0.0,0.0,0.0,Core staff,3.0,12/01/1997,U,5683927
+F,Y,Y,1.0,157500.0,Working,Incomplete higher,Married,House / apartment,-4319.0,1.0,1.0,1.0,0.0,Drivers,3.0,23/11/1981,W,5619025
+F,N,Y,0.0,171000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3149.0,1.0,0.0,0.0,0.0,Accountants,2.0,14/05/1993,N,6247924
+F,Y,,0.0,99000.0,,Secondary / secondary special,Married,House / apartment,-3128.0,1.0,0.0,0.0,0.0,,2.0,31/05/1980,L,5797187
+F,N,N,0.0,157500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,,,2.0,01/05/1958,R,5762154
+M,Y,Y,0.0,360000.0,Working,Secondary / secondary special,Married,House / apartment,-4966.0,1.0,0.0,0.0,0.0,Managers,2.0,11/03/1981,J,6031752
+,Y,Y,0.0,247500.0,Commercial associate,Higher education,Married,House / apartment,-514.0,1.0,0.0,1.0,0.0,Realty agents,2.0,27/10/1979,H,6372157
+F,N,N,0.0,90000.0,State servant,Secondary / secondary special,Married,House / apartment,-1557.0,1.0,0.0,0.0,0.0,,2.0,14/06/1972,C,5580323
+F,N,Y,0.0,157500.0,Pensioner,,Married,House / apartment,365243.0,1.0,0.0,,,,2.0,16/01/1964,H,5045355
+F,N,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,03/10/1958,K,5956708
+F,N,Y,0.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-4414.0,1.0,1.0,0.0,0.0,Laborers,,12/09/1981,H,6318330
+F,N,N,1.0,216000.0,Working,Secondary / secondary special,Married,,-4121.0,1.0,0.0,0.0,0.0,Sales staff,3.0,02/01/1988,L,5552170
+M,Y,Y,1.0,180000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2849.0,1.0,0.0,0.0,0.0,,2.0,30/04/1982,Q,5669041
+F,N,N,1.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-3285.0,1.0,1.0,0.0,0.0,,3.0,15/02/1993,Q,6093869
+M,N,Y,0.0,562500.0,,Secondary / secondary special,Single / not married,House / apartment,-1088.0,1.0,1.0,1.0,0.0,,1.0,20/08/1987,T,5352666
+F,N,Y,0.0,,State servant,Higher education,Married,House / apartment,-3187.0,1.0,0.0,1.0,0.0,Core staff,2.0,08/07/1988,C,5535963
+F,Y,N,1.0,337500.0,Commercial associate,Higher education,Married,House / apartment,-1886.0,1.0,0.0,0.0,0.0,,3.0,18/06/1972,B,5584942
+M,Y,Y,0.0,135000.0,State servant,Secondary / secondary special,Separated,House / apartment,-665.0,1.0,0.0,0.0,0.0,Laborers,1.0,11/01/1982,F,5952430
+M,N,Y,1.0,,Working,Secondary / secondary special,Married,House / apartment,-2307.0,1.0,1.0,1.0,0.0,Laborers,3.0,08/10/1978,M,5743972
+F,N,Y,1.0,135000.0,,Secondary / secondary special,Married,House / apartment,,1.0,1.0,0.0,0.0,Sales staff,3.0,26/03/1995,O,5208090
+M,N,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-847.0,1.0,0.0,1.0,0.0,Security staff,2.0,29/02/1960,P,6622843
+M,N,Y,0.0,315000.0,Working,Secondary / secondary special,Married,House / apartment,-10652.0,1.0,0.0,0.0,0.0,Laborers,2.0,,G,6140403
+F,N,Y,1.0,112500.0,Working,Higher education,Married,House / apartment,-1900.0,1.0,0.0,1.0,1.0,Secretaries,3.0,19/01/1995,U,6723865
+F,N,Y,1.0,225000.0,Commercial associate,Higher education,Separated,House / apartment,,1.0,0.0,0.0,0.0,,2.0,04/07/1974,C,6468665
+F,N,Y,0.0,90000.0,Commercial associate,Secondary / secondary special,,House / apartment,-1862.0,1.0,0.0,0.0,0.0,Sales staff,2.0,28/04/1995,P,5539343
+M,Y,Y,1.0,225000.0,State servant,Higher education,Married,House / apartment,-3165.0,1.0,1.0,0.0,0.0,,3.0,06/11/1991,N,5067618
+M,Y,Y,0.0,292500.0,Working,Secondary / secondary special,Married,House / apartment,-406.0,1.0,0.0,0.0,,Drivers,2.0,17/01/1973,I,6741906
+M,Y,Y,0.0,157500.0,Pensioner,Higher education,Married,,365243.0,1.0,0.0,0.0,0.0,,2.0,15/08/1955,O,6611465
+M,Y,N,0.0,135000.0,Working,Secondary / secondary special,Civil marriage,With parents,-1015.0,1.0,0.0,1.0,0.0,Laborers,2.0,08/04/2000,I,6709656
+M,Y,Y,0.0,270000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,-630.0,1.0,0.0,0.0,0.0,Drivers,2.0,19/05/1974,E,7134124
+F,N,Y,0.0,135000.0,Pensioner,Higher education,Separated,,365243.0,1.0,0.0,1.0,0.0,,1.0,04/01/1965,Y,6259127
+F,N,Y,0.0,180000.0,Commercial associate,Higher education,Married,House / apartment,-3347.0,1.0,0.0,1.0,0.0,Sales staff,2.0,03/07/1989,N,6140417
+F,N,Y,0.0,225000.0,Working,Higher education,Separated,House / apartment,-3352.0,1.0,1.0,0.0,0.0,,1.0,18/08/1977,S,6230371
+M,N,N,0.0,184500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,365243.0,1.0,0.0,1.0,0.0,,1.0,10/10/1966,N,6061273
+F,Y,Y,,157500.0,State servant,Secondary / secondary special,Married,House / apartment,-375.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,20/04/1977,S,5703361
+F,N,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,07/06/1967,L,6389260
+M,Y,Y,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-4686.0,1.0,0.0,1.0,1.0,Laborers,3.0,06/06/1989,F,6448171
+F,N,Y,0.0,,Working,Higher education,Married,House / apartment,-7864.0,1.0,0.0,0.0,0.0,Core staff,2.0,21/11/1974,M,6639160
+F,N,N,1.0,112500.0,Commercial associate,Incomplete higher,Married,With parents,-244.0,1.0,0.0,0.0,,Accountants,3.0,03/05/1994,Z,6569413
+F,N,Y,0.0,108000.0,Pensioner,Secondary / secondary special,Married,House / apartment,,1.0,0.0,1.0,0.0,,2.0,16/10/1965,M,5501299
+F,N,N,0.0,207000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,30/04/1969,M,5454855
+F,N,Y,0.0,157500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,06/11/1964,O,6352038
+F,N,N,0.0,337500.0,Working,Secondary / secondary special,Widow,House / apartment,-1890.0,1.0,1.0,0.0,0.0,Managers,1.0,22/05/1975,H,6111381
+F,N,Y,0.0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,02/10/1962,Y,6577457
+F,N,Y,0.0,180000.0,,Higher education,Married,House / apartment,-4106.0,1.0,0.0,1.0,1.0,Managers,2.0,02/09/1987,W,5680685
+F,N,N,0.0,112500.0,State servant,Secondary / secondary special,Married,House / apartment,-112.0,1.0,0.0,0.0,0.0,Medicine staff,2.0,25/08/1991,I,6107239
+,Y,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-2880.0,1.0,0.0,0.0,0.0,Laborers,2.0,18/03/1980,L,6480677
+F,Y,N,0.0,126000.0,Working,Higher education,Married,House / apartment,-483.0,1.0,1.0,0.0,0.0,,2.0,09/12/1997,V,6686274
+M,N,Y,0.0,315000.0,Commercial associate,Higher education,Married,House / apartment,-2096.0,1.0,0.0,1.0,0.0,,2.0,31/08/1980,V,6424638
+F,N,N,0.0,211500.0,Working,Higher education,Married,House / apartment,-1694.0,1.0,0.0,0.0,0.0,Core staff,2.0,08/11/1993,Y,5807357
+M,Y,Y,0.0,180000.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,03/08/1960,X,6746613
+F,N,Y,0.0,103500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,04/01/1963,H,5416592
+F,N,Y,0.0,202500.0,Pensioner,Secondary / secondary special,Widow,Municipal apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,23/08/1966,K,6508242
+F,Y,Y,0.0,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,12/10/1965,K,5295952
+F,,Y,2.0,94500.0,State servant,Secondary / secondary special,Married,House / apartment,-8662.0,1.0,0.0,0.0,0.0,Medicine staff,4.0,21/12/1980,B,6509275
+M,Y,N,0.0,360000.0,State servant,Higher education,Married,House / apartment,-7940.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,24/03/1970,V,5863444
+M,Y,Y,2.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-1059.0,1.0,0.0,0.0,0.0,Laborers,4.0,22/03/1990,V,6471642
+F,N,N,2.0,225000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,-568.0,1.0,0.0,0.0,0.0,Laborers,4.0,11/05/1980,Z,7107604
+F,N,N,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,,1.0,0.0,0.0,0.0,,2.0,28/05/1991,S,6798619
+M,Y,Y,1.0,225000.0,Working,Incomplete higher,Married,House / apartment,-3826.0,1.0,1.0,0.0,1.0,Laborers,3.0,09/03/1983,D,6243198
+F,Y,Y,1.0,202500.0,Working,Higher education,Married,House / apartment,-1888.0,1.0,0.0,0.0,0.0,Accountants,3.0,02/03/1991,U,6519326
+F,Y,Y,0.0,373500.0,Working,Secondary / secondary special,Widow,House / apartment,-1577.0,1.0,0.0,0.0,0.0,Accountants,1.0,26/03/1966,M,5111076
+F,Y,Y,0.0,225000.0,Working,Higher education,Married,House / apartment,-1205.0,,0.0,0.0,0.0,Sales staff,2.0,13/05/1976,O,5832955
+F,N,Y,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1575.0,,0.0,0.0,0.0,Laborers,2.0,05/07/1980,S,6189441
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-4435.0,1.0,0.0,0.0,,Sales staff,2.0,09/03/1968,H,6543675
+F,Y,Y,0.0,315000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,,1.0,0.0,0.0,0.0,Core staff,1.0,03/07/1986,R,5690052
+F,N,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-2758.0,1.0,0.0,,0.0,Laborers,,27/08/1972,S,6630103
+F,N,Y,0.0,112500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,15/11/1961,X,6089470
+F,N,Y,0.0,189000.0,Working,Secondary / secondary special,Separated,House / apartment,-4829.0,1.0,0.0,0.0,0.0,,1.0,17/12/1982,K,5900809
+M,Y,N,0.0,166500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,04/01/1964,P,6060641
+M,Y,Y,0.0,427500.0,Working,Secondary / secondary special,Married,House / apartment,-1092.0,1.0,0.0,0.0,0.0,Managers,2.0,22/03/1982,D,7202672
+M,Y,Y,1.0,270000.0,Working,Secondary / secondary special,,House / apartment,-3999.0,1.0,0.0,1.0,0.0,Core staff,3.0,11/11/1992,Q,6639708
+F,N,Y,2.0,157500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,-1855.0,1.0,0.0,0.0,0.0,Laborers,4.0,10/01/1995,F,5518620
+M,N,Y,0.0,202500.0,Working,Lower secondary,Civil marriage,Municipal apartment,-1279.0,1.0,0.0,0.0,0.0,Drivers,2.0,07/01/1982,P,6582300
+F,N,Y,0.0,135000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,17/03/1959,B,5132712
+M,N,N,1.0,90000.0,Commercial associate,Secondary / secondary special,Separated,With parents,-199.0,1.0,0.0,0.0,0.0,High skill tech staff,2.0,05/06/1981,B,6331806
+M,Y,N,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-2624.0,1.0,0.0,1.0,0.0,Managers,2.0,23/11/1984,O,6603855
+M,Y,Y,0.0,292500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1782.0,1.0,0.0,1.0,0.0,Drivers,2.0,15/03/1965,X,6127777
+M,N,Y,0.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-766.0,1.0,0.0,0.0,1.0,Laborers,2.0,11/05/1993,M,5760820
+F,N,Y,0.0,225000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,30/11/1958,C,6162166
+F,N,N,0.0,220500.0,Working,Higher education,Married,House / apartment,-4526.0,1.0,,1.0,0.0,Low-skill Laborers,2.0,03/03/1982,J,6108104
+F,N,Y,0.0,360000.0,Working,Higher education,Married,House / apartment,-3678.0,1.0,0.0,0.0,1.0,High skill tech staff,2.0,08/01/1966,O,6088732
+F,N,Y,0.0,166500.0,Pensioner,Higher education,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,15/03/1957,Q,6031880
+M,N,Y,1.0,180000.0,Working,Higher education,,With parents,-157.0,1.0,0.0,0.0,0.0,Core staff,3.0,09/06/1980,Y,5156296
+F,N,Y,1.0,81000.0,Working,Secondary / secondary special,Married,House / apartment,-2526.0,1.0,1.0,0.0,0.0,Core staff,3.0,28/08/1988,T,6192969
+M,N,N,0.0,202500.0,Commercial associate,Higher education,Single / not married,House / apartment,,1.0,0.0,1.0,0.0,,1.0,18/12/1994,F,5883133
+F,N,,0.0,247500.0,Working,Higher education,Married,House / apartment,-6081.0,1.0,1.0,0.0,0.0,Core staff,2.0,12/06/1969,G,6224435
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Married,With parents,-608.0,1.0,1.0,0.0,1.0,,2.0,13/09/1995,G,5067773
+F,N,Y,0.0,180000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,18/04/1963,P,6686359
+M,Y,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-912.0,1.0,1.0,0.0,0.0,Drivers,2.0,31/07/1963,H,5353527
+F,N,N,0.0,292500.0,State servant,Secondary / secondary special,Separated,Municipal apartment,-1733.0,1.0,0.0,1.0,0.0,Laborers,,04/11/1962,V,6637552
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,06/12/1970,R,6098809
+M,N,Y,1.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-299.0,1.0,0.0,0.0,0.0,Laborers,3.0,21/05/1986,A,6594946
+F,,N,0.0,81000.0,Working,Higher education,Married,House / apartment,-2826.0,1.0,1.0,1.0,0.0,Core staff,2.0,12/01/1988,F,5906206
+F,N,Y,0.0,135000.0,State servant,Secondary / secondary special,Married,House / apartment,-5749.0,1.0,,0.0,0.0,Medicine staff,2.0,25/08/1977,B,5836864
+F,N,,0.0,202500.0,Commercial associate,Higher education,Married,House / apartment,-718.0,1.0,1.0,1.0,0.0,Managers,2.0,23/08/1974,T,7033879
+F,N,N,0.0,76500.0,Working,Secondary / secondary special,Married,House / apartment,-2896.0,1.0,1.0,0.0,0.0,Laborers,2.0,02/03/1984,J,5090921
+F,N,Y,0.0,87750.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,,F,6460711
+F,N,Y,2.0,49500.0,Working,Secondary / secondary special,Married,House / apartment,-608.0,1.0,0.0,0.0,0.0,Sales staff,4.0,08/02/1992,M,5690438
+M,N,Y,1.0,,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,3.0,07/01/1979,B,6508566
+F,N,Y,1.0,73350.0,State servant,Secondary / secondary special,Married,House / apartment,-1095.0,1.0,0.0,0.0,0.0,,3.0,12/06/1983,Y,6582353
+M,Y,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-3697.0,1.0,1.0,0.0,0.0,Laborers,2.0,22/04/1971,C,6064733
+F,Y,Y,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-5698.0,1.0,0.0,0.0,0.0,Core staff,2.0,06/01/1971,O,6274194
+F,N,N,0.0,90000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-2893.0,1.0,,1.0,0.0,Laborers,1.0,28/10/1984,R,5617487
+F,N,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,,24/11/1958,R,6737607
+M,Y,N,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-4355.0,1.0,0.0,0.0,0.0,Laborers,3.0,16/08/1976,O,5384745
+M,N,Y,0.0,216000.0,Commercial associate,Higher education,Married,House / apartment,-7415.0,1.0,0.0,0.0,1.0,Managers,2.0,16/09/1970,M,5069147
+F,N,N,0.0,180000.0,State servant,Secondary / secondary special,Married,House / apartment,-5128.0,1.0,0.0,0.0,0.0,,2.0,12/03/1958,J,6128041
+F,N,Y,1.0,90000.0,Working,Secondary / secondary special,Married,House / apartment,-809.0,1.0,0.0,0.0,0.0,,3.0,08/12/1990,L,5879383
+F,N,Y,0.0,270000.0,Working,Secondary / secondary special,Married,House / apartment,-6411.0,1.0,0.0,0.0,0.0,Managers,2.0,27/02/1969,V,5879528
+F,N,,0.0,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,14/02/1960,V,6830173
+M,,Y,0.0,405000.0,Working,Secondary / secondary special,Married,House / apartment,-2245.0,1.0,0.0,,0.0,Managers,2.0,28/01/1982,P,6243308
+M,Y,Y,0.0,,Working,Secondary / secondary special,Single / not married,House / apartment,,1.0,0.0,0.0,0.0,Security staff,1.0,12/08/1975,B,5177827
+M,Y,Y,2.0,270000.0,State servant,Higher education,Married,Office apartment,-2752.0,1.0,0.0,0.0,0.0,,4.0,03/08/1993,M,5625494
+M,N,Y,0.0,92250.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,18/08/1967,T,5174723
+F,N,Y,2.0,157500.0,State servant,Higher education,Married,House / apartment,-5922.0,1.0,0.0,,0.0,,4.0,09/02/1988,X,6839701
+F,N,N,0.0,112500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3381.0,1.0,0.0,1.0,0.0,Core staff,2.0,29/04/1986,K,6570991
+F,N,Y,2.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-2444.0,1.0,0.0,0.0,0.0,Medicine staff,4.0,17/10/1984,Y,5340664
+M,,Y,0.0,292500.0,Working,Secondary / secondary special,Married,House / apartment,-1484.0,1.0,0.0,0.0,,IT staff,2.0,05/01/1995,M,6242735
+M,Y,Y,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1570.0,1.0,1.0,1.0,1.0,Drivers,2.0,28/07/1970,A,5135635
+,N,Y,0.0,157500.0,Working,Higher education,Single / not married,House / apartment,-2643.0,1.0,0.0,0.0,0.0,Waiters/barmen staff,1.0,06/02/1991,C,6092387
+F,N,Y,0.0,112500.0,Working,Secondary / secondary special,Married,House / apartment,-3112.0,1.0,0.0,0.0,0.0,Laborers,2.0,17/12/1979,J,6098846
+F,N,Y,2.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1399.0,1.0,0.0,0.0,0.0,Private service staff,4.0,07/03/1985,F,5054526
+F,N,Y,1.0,157500.0,Working,Higher education,Married,House / apartment,-3914.0,1.0,0.0,0.0,1.0,Core staff,3.0,19/01/1976,P,5833491
+M,,Y,0.0,540000.0,Commercial associate,Higher education,Married,House / apartment,-1041.0,1.0,0.0,0.0,1.0,Managers,2.0,10/02/1989,E,5796007
+F,N,N,0.0,135000.0,Working,Higher education,Married,House / apartment,-2427.0,,0.0,1.0,1.0,,2.0,06/03/1973,A,6498880
+M,Y,Y,,202500.0,Commercial associate,Incomplete higher,Married,House / apartment,-4327.0,1.0,0.0,0.0,0.0,,3.0,,P,6524932
+F,Y,Y,0.0,270000.0,Working,Higher education,Married,House / apartment,-577.0,1.0,0.0,0.0,0.0,,2.0,03/05/1971,N,6671683
+F,N,N,0.0,315000.0,Commercial associate,Secondary / secondary special,,House / apartment,-133.0,1.0,0.0,0.0,0.0,Core staff,2.0,11/06/1965,R,6060867
+F,N,N,4.0,157500.0,Working,Secondary / secondary special,Married,House / apartment,-1799.0,1.0,1.0,0.0,0.0,Medicine staff,6.0,06/08/1985,R,5270437
+F,N,Y,2.0,180000.0,State servant,Incomplete higher,Married,House / apartment,-1766.0,1.0,0.0,1.0,0.0,Drivers,4.0,08/05/1993,I,6047152
+F,Y,,0.0,292500.0,Working,,Separated,House / apartment,-2761.0,1.0,0.0,0.0,0.0,Core staff,1.0,26/03/1973,Y,6468883
+F,Y,Y,0.0,121500.0,Working,Higher education,Married,House / apartment,,1.0,0.0,0.0,0.0,Core staff,2.0,06/10/1980,G,7987363
+M,Y,N,0.0,202500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,,1.0,0.0,,2.0,20/01/1977,R,6357311
+F,Y,Y,0.0,225000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-1394.0,1.0,0.0,0.0,0.0,Drivers,2.0,07/10/1979,A,5876447
+F,N,Y,0.0,121500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,1.0,,2.0,02/11/1965,P,5343631
+F,N,N,2.0,157500.0,Working,Secondary / secondary special,Married,With parents,-883.0,1.0,,0.0,0.0,Laborers,4.0,12/03/1989,J,5580108
+F,N,Y,0.0,90000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,25/03/1966,D,5500782
+M,N,N,0.0,,Working,Secondary / secondary special,Married,With parents,-3650.0,1.0,1.0,1.0,0.0,Drivers,2.0,22/09/1984,J,5501352
+M,N,Y,0.0,135000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-127.0,1.0,0.0,0.0,0.0,Laborers,,03/08/1997,V,5706864
+M,N,N,0.0,126000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,11/04/1967,G,6154608
+F,N,N,0.0,90000.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,19/04/1959,Z,5832912
+M,Y,Y,0.0,112500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,22/08/1968,O,5863573
+F,N,Y,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-246.0,1.0,0.0,0.0,0.0,,2.0,03/03/1996,I,5023901
+F,N,N,0.0,157500.0,State servant,Higher education,Civil marriage,House / apartment,-2424.0,1.0,0.0,1.0,0.0,Core staff,2.0,18/06/1971,U,5854656
+M,Y,Y,0.0,360000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,,1.0,1.0,1.0,0.0,High skill tech staff,2.0,12/12/1971,E,6231692
+,N,Y,0.0,45000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,02/06/1965,U,6807451
+F,N,Y,0.0,315000.0,Working,Higher education,Civil marriage,House / apartment,-4858.0,1.0,0.0,1.0,0.0,Managers,2.0,12/10/1978,R,6793552
+M,N,N,0.0,292500.0,Commercial associate,Higher education,Married,House / apartment,-2914.0,,0.0,1.0,1.0,Managers,2.0,11/04/1974,R,7852230
+F,N,Y,2.0,157500.0,Working,Secondary / secondary special,Separated,House / apartment,-647.0,1.0,0.0,0.0,0.0,Laborers,3.0,11/06/1990,A,5944178
+M,Y,Y,1.0,202500.0,Commercial associate,Secondary / secondary special,,House / apartment,-1023.0,1.0,0.0,0.0,0.0,Laborers,2.0,09/04/1976,M,5241557
+M,N,Y,0.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-4915.0,1.0,0.0,1.0,0.0,Laborers,2.0,23/08/1982,P,6233342
+M,Y,Y,1.0,144000.0,Working,Secondary / secondary special,Married,House / apartment,-1028.0,1.0,0.0,0.0,0.0,Laborers,3.0,25/02/1986,N,5062657
+M,N,Y,0.0,270000.0,Working,Secondary / secondary special,Single / not married,With parents,-1262.0,1.0,0.0,0.0,0.0,Laborers,1.0,08/04/1995,P,6611485
+F,Y,N,0.0,112500.0,Working,,Married,House / apartment,-1284.0,1.0,0.0,0.0,0.0,Cooking staff,2.0,18/10/1969,Q,5628585
+F,Y,Y,0.0,225000.0,Commercial associate,Higher education,Civil marriage,House / apartment,-5387.0,1.0,0.0,0.0,0.0,Sales staff,2.0,07/11/1983,R,6192891
+F,N,N,0.0,112500.0,Working,Secondary / secondary special,Married,Municipal apartment,-1641.0,1.0,1.0,0.0,1.0,Secretaries,2.0,26/10/1975,W,5499672
+F,Y,Y,1.0,135000.0,,Secondary / secondary special,Married,House / apartment,-1411.0,1.0,0.0,1.0,0.0,Medicine staff,3.0,06/10/1987,W,6100725
+M,N,N,0.0,135000.0,Pensioner,Lower secondary,Widow,Municipal apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,12/11/1961,E,6126171
+F,Y,Y,0.0,202500.0,Working,Secondary / secondary special,Married,House / apartment,-5215.0,1.0,1.0,0.0,0.0,Managers,2.0,21/03/1985,Q,5268739
+F,N,Y,0.0,90000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-12677.0,1.0,,0.0,0.0,Laborers,2.0,06/01/1969,Q,6007773
+F,Y,N,0.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-4927.0,1.0,1.0,1.0,0.0,Security staff,2.0,23/12/1986,H,6351548
+F,N,Y,2.0,54000.0,Working,Secondary / secondary special,Married,House / apartment,-6044.0,1.0,,0.0,0.0,Medicine staff,,24/03/1977,K,6079464
+M,Y,,0.0,450000.0,Working,Higher education,Civil marriage,House / apartment,-2041.0,1.0,0.0,0.0,0.0,Laborers,2.0,18/10/1986,I,5980421
+M,Y,Y,4.0,292500.0,Working,Secondary / secondary special,Married,,-401.0,1.0,0.0,0.0,0.0,Laborers,6.0,25/05/1984,M,5021500
+F,N,N,0.0,202500.0,Commercial associate,Higher education,,House / apartment,,1.0,0.0,1.0,1.0,Accountants,2.0,28/12/1992,O,5918411
+M,Y,N,0.0,171000.0,Working,Secondary / secondary special,Single / not married,Rented apartment,-1080.0,1.0,1.0,0.0,0.0,Laborers,1.0,05/10/1999,R,6611236
+M,N,N,0.0,112500.0,Commercial associate,Secondary / secondary special,Single / not married,With parents,-460.0,1.0,0.0,0.0,0.0,Sales staff,1.0,22/09/2000,T,5934334
+M,Y,Y,0.0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-611.0,1.0,0.0,0.0,0.0,Managers,2.0,20/08/1986,S,6063245
+M,N,Y,0.0,67500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,05/07/1970,N,6229871
+F,N,Y,2.0,157500.0,Working,Secondary / secondary special,Separated,House / apartment,-1996.0,1.0,0.0,1.0,0.0,Laborers,3.0,08/04/1984,E,6612106
+F,N,Y,0.0,225000.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3178.0,1.0,0.0,0.0,0.0,,1.0,24/03/1974,T,5552139
+F,N,N,0.0,292500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,-8767.0,1.0,0.0,0.0,0.0,,1.0,19/07/1980,I,6063917
+F,N,N,0.0,225000.0,Commercial associate,Higher education,Married,House / apartment,-1329.0,1.0,0.0,1.0,1.0,Sales staff,2.0,08/01/1996,Z,5854165
+F,Y,Y,0.0,157500.0,State servant,Higher education,Married,House / apartment,-9000.0,1.0,0.0,0.0,0.0,,,25/10/1978,N,6397919
+M,N,Y,0.0,202500.0,Pensioner,Higher education,Married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,2.0,17/05/1961,Z,6229992
+F,N,N,0.0,135000.0,Working,Secondary / secondary special,Widow,,-8746.0,1.0,1.0,1.0,0.0,Cleaning staff,1.0,05/04/1972,W,5837202
+M,Y,Y,1.0,180000.0,Working,Secondary / secondary special,Married,House / apartment,-1552.0,1.0,0.0,0.0,0.0,Drivers,3.0,04/01/1985,U,6212055
+M,N,Y,0.0,315000.0,Working,Higher education,Married,House / apartment,-125.0,1.0,1.0,0.0,0.0,Sales staff,2.0,31/12/1998,Z,5970323
+F,N,N,1.0,99000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-994.0,1.0,1.0,0.0,0.0,Laborers,3.0,22/10/1981,Z,6196270
+F,N,Y,0.0,360000.0,Commercial associate,Higher education,Married,House / apartment,-3244.0,1.0,0.0,0.0,0.0,Managers,2.0,26/01/1978,R,6820550
+M,N,Y,1.0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-2718.0,1.0,0.0,1.0,0.0,Laborers,3.0,30/11/1973,N,6175224
+F,N,N,0.0,171000.0,Working,Secondary / secondary special,Single / not married,,-1177.0,1.0,0.0,0.0,0.0,High skill tech staff,,15/03/1994,M,6398290
+M,N,Y,1.0,112500.0,Working,Incomplete higher,Married,House / apartment,-1569.0,1.0,0.0,0.0,0.0,,3.0,13/09/1985,J,6080205
+F,N,Y,0.0,171000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,-9430.0,1.0,0.0,0.0,0.0,High skill tech staff,1.0,09/01/1979,R,5858764
+F,N,N,1.0,121500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-3518.0,1.0,0.0,,0.0,Core staff,3.0,01/08/1980,K,5618374
+F,N,N,0.0,,Working,Secondary / secondary special,Married,House / apartment,-1382.0,1.0,0.0,0.0,0.0,Managers,2.0,22/08/1977,E,6640087
+F,Y,Y,0.0,202500.0,Working,Secondary / secondary special,Single / not married,House / apartment,-3425.0,1.0,0.0,0.0,0.0,High skill tech staff,1.0,16/05/1981,Y,5205250
+M,Y,Y,1.0,405000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-663.0,1.0,0.0,0.0,0.0,Core staff,3.0,03/10/1972,V,5836581
+F,N,Y,0.0,148500.0,Pensioner,Secondary / secondary special,Married,House / apartment,365243.0,1.0,0.0,1.0,0.0,,2.0,20/07/1962,O,6392326
+M,Y,Y,1.0,135000.0,Working,Secondary / secondary special,Married,House / apartment,-26.0,1.0,1.0,1.0,0.0,Core staff,3.0,24/04/1984,C,6837405
+M,Y,Y,0.0,180000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1546.0,1.0,1.0,0.0,0.0,Laborers,2.0,20/08/1991,J,6601545
+M,N,Y,0.0,225000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1297.0,1.0,1.0,0.0,0.0,Drivers,2.0,21/06/1985,E,5832875
+M,Y,N,2.0,112500.0,Working,Incomplete higher,Married,House / apartment,-3835.0,1.0,0.0,0.0,0.0,Security staff,4.0,24/02/1991,W,6281031
+F,N,Y,1.0,117000.0,Working,,Widow,House / apartment,-280.0,1.0,1.0,1.0,0.0,,2.0,08/08/1976,T,5791984
+F,N,N,0.0,337500.0,Working,Higher education,Widow,House / apartment,-8953.0,,0.0,1.0,0.0,Core staff,1.0,02/10/1959,V,6806494
+F,N,Y,1.0,675000.0,Commercial associate,Higher education,Single / not married,House / apartment,-851.0,1.0,0.0,0.0,1.0,Managers,2.0,01/07/1981,O,5636782
+M,Y,Y,2.0,360000.0,Commercial associate,Higher education,Married,House / apartment,-1954.0,1.0,0.0,0.0,1.0,Managers,,12/05/1982,B,5542839
+F,,,0.0,202500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,365243.0,1.0,0.0,0.0,0.0,,1.0,09/10/1961,C,6664550
+F,N,N,0.0,270000.0,State servant,Secondary / secondary special,Widow,Municipal apartment,-4548.0,1.0,0.0,0.0,0.0,Core staff,1.0,26/08/1979,U,6780720
+F,N,N,,225000.0,,Secondary / secondary special,Married,House / apartment,-2741.0,1.0,0.0,0.0,0.0,Sales staff,2.0,27/12/1976,K,5860828
+M,N,N,0.0,247500.0,Working,Secondary / secondary special,Married,House / apartment,-1033.0,1.0,0.0,1.0,0.0,Drivers,2.0,27/04/1973,M,6430595
+F,N,Y,0.0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-1111.0,1.0,,1.0,0.0,,2.0,06/07/1994,S,6208196
+M,Y,Y,0.0,427500.0,State servant,Secondary / secondary special,Married,House / apartment,-2430.0,1.0,0.0,0.0,0.0,Laborers,2.0,08/06/1973,K,5213448
+M,N,Y,2.0,292500.0,Working,Secondary / secondary special,Married,House / apartment,-647.0,1.0,0.0,0.0,1.0,Laborers,4.0,11/09/1988,C,5884205
+M,N,Y,2.0,,Commercial associate,Secondary / secondary special,Married,House / apartment,-1600.0,1.0,0.0,0.0,0.0,Managers,,16/07/1982,I,5918256
+F,N,N,1.0,103500.0,Working,Higher education,Married,House / apartment,-7059.0,1.0,1.0,0.0,0.0,,3.0,30/04/1974,C,6317660
+M,Y,N,0.0,121500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,-647.0,1.0,0.0,1.0,0.0,Drivers,2.0,18/10/1993,L,7454538
+M,N,Y,0.0,225000.0,Working,Secondary / secondary special,Married,House / apartment,-297.0,1.0,0.0,0.0,0.0,,2.0,04/03/1988,W,5529357
+F,Y,Y,1.0,135000.0,Working,Secondary / secondary special,,Municipal apartment,-4099.0,1.0,0.0,0.0,1.0,Sales staff,3.0,26/04/1989,E,6398262
