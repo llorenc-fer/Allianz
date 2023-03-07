@@ -6,36 +6,36 @@ import plotly.express as px
 import streamlit.components.v1 as components
 from PIL import Image
 
-# def add_bg_from_url():
-#     st.markdown(
-#         f"""
-#         <style>
-#         .stApp {{
-#             background-image: url("C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\5. Streamlit\Sin título.png?raw=true");
-#             background-attachment: fixed;
-#             background-size: cover
-#         }}
-#         </style>
-#         """,
-#         unsafe_allow_html=True
-#     )
-# add_bg_from_url()
+def add_bg_from_url():
+    st.markdown(
+        f"""
+        <style>
+        .stApp {{
+            background-image: url("https://github.com/llorenc-fer/Allianz/blob/main/Sin%20t%C3%ADtulo.png?raw=true");
+            background-attachment: fixed;
+            background-size: cover
+        }}
+        </style>
+        """,
+        unsafe_allow_html=True
+    )
+add_bg_from_url()
 
 
-regressionscores = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\regressionscores.csv')
-nulls = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\nulls.csv')
-paid_record = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\paid_record.csv')
+regressionscores = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv')
+nulls = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv')
+paid_record = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv')
 paid_recordshape = paid_record.shape
-main = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\main.csv')
+main = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv')
 mainshape = main.shape
-address = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\address.csv')
+address = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/address.csv')
 addressshape = address.shape
-coldic = Image.open(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\5. Streamlit\Explicacion_columnas.png')
-histbins = Image.open(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\5. Streamlit\histogram columns.png')
-corrmap = Image.open(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\5. Streamlit\corrmap.png')
-importances1 = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\importances1.csv')
-importances2 = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\importances2.csv')
-importances3 = pd.read_csv(r'C:\Users\lluri\Documents\samplerepo\Upgrade Hub\Practice Sheet\Allianz\0. Allianz\importances3.csv')
+coldic = Image.open(r'https://github.com/llorenc-fer/Allianz/blob/main/Explicacion_columnas.png')
+histbins = Image.open(r'https://github.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png')
+corrmap = Image.open(r'https://github.com/llorenc-fer/Allianz/blob/main/corrmap.png')
+importances1 = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/importances1.csv')
+importances2 = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/importances2.csv')
+importances3 = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/importances3.csv')
 
 st.title("Allianz Data Talent Datathon 2023")
 st.markdown("This application is part of the 1st edition of the Allianz Data Talent Program Datathon (2023)")
