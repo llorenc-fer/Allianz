@@ -216,7 +216,11 @@ if st.sidebar.button('Regression'):
     st.dataframe(regressionscores)
     st.markdown('Plots')
     if  st.checkbox("Lasso", False):
-        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
+        try:
+            st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=true')
+        except:
+            st.write("Error: Failed to load image.")
+        #st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
     if  st.checkbox("Ridge", False):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Ridge.png?raw=trueg')
     if  st.checkbox("KNeighbors", False):   
