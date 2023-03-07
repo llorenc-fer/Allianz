@@ -215,22 +215,22 @@ if st.sidebar.button('Regression',key='regression'):
     Here are the results:""")
     st.dataframe(regressionscores)
     st.markdown('Plots')
-    if st.checkbox("Lasso", False):
+    with st.expander("Lasso"):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
-    elif  st.checkbox("Ridge", False):
+    with st.expander("Ridge"):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Ridge.png?raw=trueg')
-    elif  st.checkbox("KNeighbors", False):   
+    with st.expander("K-Neighbors"):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png?raw=trueg')
-    elif  st.checkbox("SVR", False):  
+    with st.expander("Support Vector Regression"):  
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/SVR.png?raw=trueg')
-    elif  st.checkbox("Random Forest", False): 
+    with st.expander("Random Forest"):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/RandomForest.png?raw=trueg')
-    elif  st.checkbox("Extra Tree Regressor", False): 
+    with st.expander("Extra Tree Regressor"):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/ExtraTreeRegressor.png?raw=trueg')
-    elif  st.checkbox("Gradient Boosting Classifier", False): 
+    with st.expander("Gradient Boosting Classifier"):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Gradientboostingclassifier.png?raw=trueg')
-    elif  st.checkbox("XGB Regressor", False): 
+    with st.expander("XGB Regressor"):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/xgbregressor.png?raw=trueg')
-    elif  st.checkbox("MLP Regressor", False):   
+    with st.expander("MLP Regressor"): 
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/MLPRegressor.png?raw=trueg')
 
