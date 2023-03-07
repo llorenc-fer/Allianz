@@ -220,7 +220,7 @@ if st.sidebar.button('Regression'):
     st.image('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png')
     st.image('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Graphs/SVR.png')
     st.image('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Graphs/RandomForest.png')
-    st.image('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Graphs/ExtraTreeRegressor.png')
+    st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/ExtraTreeRegressor.png?raw=trueg')
     st.image('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Graphs/Gradientboostingclassifier.png')
     st.image('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png')
     st.image('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/Graphs/xgbregressor.png')
