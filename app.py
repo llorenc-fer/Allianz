@@ -24,7 +24,7 @@ add_bg_from_url()
 
 regressionscores = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv', sep='delimiter', header=None)
 nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv',sep='delimiter', header=None)
-paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv')
+paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv',sep='delimiter', header=None)
 paid_recordshape = paid_record.shape
 main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv',sep='delimiter', header=None)
 mainshape = main.shape
