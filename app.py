@@ -215,26 +215,83 @@ if st.sidebar.button('Regression'):
     Here are the results:""")
     st.dataframe(regressionscores)
     st.markdown('Plots')
-    if  st.checkbox("Lasso", False):
-        try:
-            st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=true')
-        except:
-            st.write("Error: Failed to load image.")
-        #st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
-    if  st.checkbox("Ridge", False):
+#     if  st.checkbox("Lasso", False):
+#         try:
+#             st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=true')
+#         except:
+#             st.write("Error: Failed to load image.")
+#         #st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
+#     if  st.checkbox("Ridge", False):
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Ridge.png?raw=trueg')
+#     if  st.checkbox("KNeighbors", False):   
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png?raw=trueg')
+#     if  st.checkbox("SVR", False):  
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/SVR.png?raw=trueg')
+#     if  st.checkbox("Random Forest", False): 
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/RandomForest.png?raw=trueg')
+#     if  st.checkbox("Extra Tree Regressor", False): 
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/ExtraTreeRegressor.png?raw=trueg')
+#     if  st.checkbox("Gradient Boosting Classifier", False): 
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Gradientboostingclassifier.png?raw=trueg')
+#     if  st.checkbox("XGB Regressor", False): 
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/xgbregressor.png?raw=trueg')
+#     if  st.checkbox("MLP Regressor", False):   
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/MLPRegressor.png?raw=trueg')
+
+
+if st.sidebar.button('Regression'):
+    st.markdown("""
+    Since we had already created the column ratio, we have tried several Machine Learning Models to check if predicting the ratio score with a regression could be more useful than predicting the category classification of the target column. \n
+    Here are the results:""")
+    st.dataframe(regressionscores)
+    st.markdown('Plots')
+    
+    if 'Lasso' not in st.session_state:
+        st.session_state['Lasso'] = False
+    
+    if 'Ridge' not in st.session_state:
+        st.session_state['Ridge'] = False
+    
+    if 'KNeighbors' not in st.session_state:
+        st.session_state['KNeighbors'] = False
+    
+    if 'SVR' not in st.session_state:
+        st.session_state['SVR'] = False
+    
+    if 'Random Forest' not in st.session_state:
+        st.session_state['Random Forest'] = False
+    
+    if 'Extra Tree Regressor' not in st.session_state:
+        st.session_state['Extra Tree Regressor'] = False
+    
+    if 'Gradient Boosting Classifier' not in st.session_state:
+        st.session_state['Gradient Boosting Classifier'] = False
+    
+    if 'XGB Regressor' not in st.session_state:
+        st.session_state['XGB Regressor'] = False
+    
+    if 'MLP Regressor' not in st.session_state:
+        st.session_state['MLP Regressor'] = False
+        
+    if st.checkbox("Lasso", st.session_state['Lasso']):
+        st.session_state['Lasso'] = True
+        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
+        
+    if st.checkbox("Ridge", st.session_state['Ridge']):
+        st.session_state['Ridge'] = True
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Ridge.png?raw=trueg')
-    if  st.checkbox("KNeighbors", False):   
+        
+    if st.checkbox("KNeighbors", st.session_state['KNeighbors']):
+        st.session_state['KNeighbors'] = True
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Kneighbors.png?raw=trueg')
-    if  st.checkbox("SVR", False):  
+        
+    if st.checkbox("SVR", st.session_state['SVR']):
+        st.session_state['SVR'] = True
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/SVR.png?raw=trueg')
-    if  st.checkbox("Random Forest", False): 
+        
+    if st.checkbox("Random Forest", st.session_state['Random Forest']):
+        st.session_state['Random Forest'] = True
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/RandomForest.png?raw=trueg')
-    if  st.checkbox("Extra Tree Regressor", False): 
-        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/ExtraTreeRegressor.png?raw=trueg')
-    if  st.checkbox("Gradient Boosting Classifier", False): 
-        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Gradientboostingclassifier.png?raw=trueg')
-    if  st.checkbox("XGB Regressor", False): 
-        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/xgbregressor.png?raw=trueg')
-    if  st.checkbox("MLP Regressor", False):   
-        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/MLPRegressor.png?raw=trueg')
+        
+
 
