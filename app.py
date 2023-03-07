@@ -233,3 +233,4 @@ if st.sidebar.button('Regression'):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/xgbregressor.png?raw=trueg')
     if  st.checkbox("MLP Regressor", False):   
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/MLPRegressor.png?raw=trueg')
+
