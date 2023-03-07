@@ -91,16 +91,16 @@ if st.sidebar.button('Preprocessing'):
 - Mapped binary categorical values with numerical values.
 """)
     st.write("Column 'CNT_CHILDREN' before reparing outliers")
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/childrenoutliersbefore.html", "r", encoding='utf-8').read()
+    html = open("childrenoutliersbefore.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
     st.write("Column 'CNT_CHILDREN' after reparing outliers")
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/childrenoutliersafter.html", "r", encoding='utf-8').read()
+    html = open("childrenoutliersafter.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
     st.write("Column 'AMT_INCOME_TOTAL' before reparing outliers")
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/incomeoutliersbefore.html", "r", encoding='utf-8').read()
+    html = open("incomeoutliersbefore.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
     st.write("Column 'AMT_INCOME_TOTAL' after reparing outliers")
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/incomeoutliersafter.html", "r", encoding='utf-8').read()
+    html = open("incomeoutliersafter.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
     st.subheader("Feature Engineering")
     st.markdown("""
@@ -144,23 +144,23 @@ if st.sidebar.button('Data Visualisation'):
     st.subheader("Data Visualisation")
 
     st.write("Population overview")
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/pyramid.html", "r", encoding='utf-8').read()
+    html = open("pyramid.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
 
     st.write("Income by gender")
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Incomebygender.html", "r", encoding='utf-8').read()
+    html = open("Incomebygender.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
 
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/numberofchildren.html", "r", encoding='utf-8').read()
+    html = open("numberofchildren.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
 
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/realtyownership.html", "r", encoding='utf-8').read()
+    html = open("realtyownership.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
 
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/nameeducationtype.html", "r", encoding='utf-8').read()
+    html = open("nameeducationtype.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
 
-    html = open("https://github.com/llorenc-fer/Allianz/blob/main/Graphs/owncar.html", "r", encoding='utf-8').read()
+    html = open("owncar.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
 
 #-----------------------------------------------------------------------------------------
