@@ -23,19 +23,19 @@ add_bg_from_url()
 
 
 regressionscores = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv', sep='delimiter', header=None)
-nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv')
-paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv')
+nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv',sep='delimiter', header=None)
+paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv',sep='delimiter', header=None)
 paid_recordshape = paid_record.shape
-main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv')
+main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv',sep='delimiter', header=None)
 mainshape = main.shape
-address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv')
+address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv',sep='delimiter', header=None)
 addressshape = address.shape
 coldic = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/Explicacion_columnas.png')
 histbins = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png')
 corrmap = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/corrmap.png')
-importances1 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances1.csv')
-importances2 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances2.csv')
-importances3 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances3.csv')
+importances1 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances1.csv',sep='delimiter', header=None)
+importances2 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances2.csv',sep='delimiter', header=None)
+importances3 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances3.csv',sep='delimiter', header=None)
 
 st.title("Allianz Data Talent Datathon 2023")
 st.markdown("This application is part of the 1st edition of the Allianz Data Talent Program Datathon (2023)")
