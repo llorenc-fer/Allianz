@@ -218,8 +218,8 @@ if st.sidebar.button('Regression',key='regression'):
     if st.checkbox("Lasso", False):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=true')
         streamlit.echo('Lasso checkbox value is: ', st.session_state.get('Lasso', False))
-    if  st.checkbox("Lasso", False):
-        st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
+#     if  st.checkbox("Lasso", False):
+#         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/output.png?raw=trueg')
     if  st.checkbox("Ridge", False):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/Ridge.png?raw=trueg')
     if  st.checkbox("KNeighbors", False):   
