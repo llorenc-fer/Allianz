@@ -30,9 +30,9 @@ main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.
 mainshape = main.shape
 address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv',sep='delimiter', header=None)
 addressshape = address.shape
-coldic = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/Columns%20Dictionary.png')
-histbins = Image.open('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png')
-corrmap = Image.open('https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/corrmap.png')
+coldic = 'https://github.com/llorenc-fer/Allianz/blob/main/Columns%20Dictionary.png'
+histbins = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png'
+corrmap = 'https://raw.githubusercontent.com/llorenc-fer/Allianz/blob/main/corrmap.png'
 importances1 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances1.csv',sep='delimiter', header=None)
 importances2 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances2.csv',sep='delimiter', header=None)
 importances3 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances3.csv',sep='delimiter', header=None)
