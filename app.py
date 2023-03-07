@@ -22,20 +22,20 @@ def add_bg_from_url():
 add_bg_from_url()
 
 
-regressionscores = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv')
-nulls = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv')
-paid_record = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv')
+regressionscores = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/regressionscores.csv')
+nulls = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/nulls.csv')
+paid_record = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/paid_record.csv')
 paid_recordshape = paid_record.shape
-main = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv')
+main = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/mainsample.csv')
 mainshape = main.shape
-address = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/address.csv')
+address = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/address.csv')
 addressshape = address.shape
-coldic = Image.open(r'https://github.com/llorenc-fer/Allianz/blob/main/Explicacion_columnas.png')
-histbins = Image.open(r'https://github.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png')
-corrmap = Image.open(r'https://github.com/llorenc-fer/Allianz/blob/main/corrmap.png')
-importances1 = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/importances1.csv')
-importances2 = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/importances2.csv')
-importances3 = pd.read_csv(r'https://github.com/llorenc-fer/Allianz/blob/main/importances3.csv')
+coldic = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/Explicacion_columnas.png')
+histbins = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/histogram%20columns.png')
+corrmap = Image.open('https://github.com/llorenc-fer/Allianz/blob/main/corrmap.png')
+importances1 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances1.csv')
+importances2 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances2.csv')
+importances3 = pd.read_csv('https://github.com/llorenc-fer/Allianz/blob/main/importances3.csv')
 
 st.title("Allianz Data Talent Datathon 2023")
 st.markdown("This application is part of the 1st edition of the Allianz Data Talent Program Datathon (2023)")
