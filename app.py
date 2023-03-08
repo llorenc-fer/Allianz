@@ -220,7 +220,7 @@ Next, we tried balancing the dataset using a downsampling technique. I used Rand
 
 #--------------------------------------------------------------------------------------------------------------
 if st.sidebar.button('Regression',key='regression'):
-    st.markdown('Regression Models')
+    st.subheader('Regression Models')
     st.markdown("""
     Since we had already created the column ratio, we have tried several Machine Learning Models to check if predicting the ratio score with a regression could be more useful than predicting the category classification of the target column. \n
     Here are the results:""")
@@ -248,7 +248,27 @@ if st.sidebar.button('Regression',key='regression'):
 if st.sidebar.button('Conclusions'):
     st.subheader('Conclusions')
     st.markdown("""
-    
+    **Regression Models**:
+
+- Lasso and Ridge regression models performed poorly in predicting customer eligibility for a premium installment plan, with train R2 scores of 0.0003 and 0.0015 respectively, and test R2 scores of -0.002 and -0.003.
+
+- The KNeighborsRegressor model performed better than Lasso and Ridge models, with a train R2 score of 0.31 and a test R2 score of -0.27.
+
+- The best performing regression models were RandomForest, ExtraTreeRegressor, XGBRegressor, and MLPRegressor, with train R2 scores of 0.51, 0.54, 0.26, and -7.85 respectively, and test R2 scores of -0.10, -0.20, -7.40, and 0.00 respectively.
+
+In terms of Test_RMSE_Score and Test_MAE_Score, all regression models performed similarly, with the RandomForest and ExtraTreeRegressor models having the lowest Test_RMSE_Score and Test_MAE_Score, indicating they are the best models for predicting customer eligibility.
+
+**Classification Models**:
+
+- The Random Forest Classifier, Decision Tree Classifier, Logistic Regression, and Linear Support Vector Classifier models all had similar precision, recall, and F1 scores, with precision scores of 0.84 and recall scores of 0.55 for predicting eligibility for a premium installment plan.
+
+- The Gradient Boosting Classifier, Ada Boost Classifier, and Neural Network models achieved high accuracy scores of 0.83, but at the cost of poor precision on positive cases.
+
+- The Neural Network with SMOTE model had a slightly higher precision score on positive cases, but performed poorly in terms of recall and F1 score.
+
+- The Random Forest Classifier, Decision Tree Classifier, Gradient Boosting Classifier, and Neural Network models all performed better on a balanced dataset, with the Gradient Boosting Classifier on a balanced dataset having the highest F1 score of 0.59.
+
+In conclusion, based on the given data, we recommend using either the RandomForest or ExtraTreeRegressor models for regression analysis, and the Gradient Boosting Classifier on a balanced dataset for classification analysis, as they performed the best in predicting customer eligibility for a premium installment plan.
     """)
                  
                  
