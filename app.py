@@ -213,7 +213,7 @@ if st.sidebar.button('Classification'):
 
 After analyzing the performance of the models and noticing that the results were not very satisfactory, we tried using the SMOTE technique with the Neural Network to improve the results. However, the improvement was not significant, and the results were still not up to the mark.
 
-Next, we tried balancing the dataset using a downsampling technique. I used Random Forest Classifier, Decision Tree Classifier, Gradient Boosting Classifier, and Neural Network with the balanced dataset. Although the accuracy of the models was not significantly improved, the results were more balanced and reliable.
+Next, we tried balancing the dataset using a downsampling technique. We used Random Forest Classifier, Decision Tree Classifier, Gradient Boosting Classifier, and Neural Network with the balanced dataset. Although the accuracy of the models was not significantly improved, the results were more balanced and reliable.
     
     """)
     st.dataframe(classificationmetrics)
