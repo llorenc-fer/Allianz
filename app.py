@@ -147,7 +147,11 @@ In this part we studied the features of our dataset to:
 if st.sidebar.button('Data Visualisation'):
     st.subheader("Data Visualisation")
 
-    st.write("Population overview")
+    st.write("Gender Overview")
+    html = open("genderoverview.html", "r", encoding='utf-8').read()
+    st.components.v1.html(html,height=600)
+
+    st.write("Population Overview")
     html = open("pyramid.html", "r", encoding='utf-8').read()
     st.components.v1.html(html,height=600)
 
