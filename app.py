@@ -207,7 +207,7 @@ if st.sidebar.button('Feature Importance'):
 #--------------------------------------------------------------------------------------------------------------
 st.sidebar.write('Machine Learning')
 if st.sidebar.button('Classification'):
-    st.subheader("Classification Models)
+    st.subheader("Classification Models")
     st.markdown("""
     We tried various classification models to predict the target variable. The models used are Random Forest Classifier, Decision Tree Classifier, Gradient Boosting Classifier, Logistic Regression, Linear Support Vector Classifier, Ada Boost Classifier, and a shallow Neural Network.
 
