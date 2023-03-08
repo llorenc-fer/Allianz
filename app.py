@@ -207,11 +207,20 @@ if st.sidebar.button('Feature Importance'):
 #--------------------------------------------------------------------------------------------------------------
 st.sidebar.write('Machine Learning')
 if st.sidebar.button('Classification'):
-    st.subheader("-")
+    st.subheader("Classification Models)
+    st.markdown("""
+    We tried various classification models to predict the target variable. The models used are Random Forest Classifier, Decision Tree Classifier, Gradient Boosting Classifier, Logistic Regression, Linear Support Vector Classifier, Ada Boost Classifier, and a shallow Neural Network.
+
+After analyzing the performance of the models and noticing that the results were not very satisfactory, we tried using the SMOTE technique with the Neural Network to improve the results. However, the improvement was not significant, and the results were still not up to the mark.
+
+Next, we tried balancing the dataset using a downsampling technique. I used Random Forest Classifier, Decision Tree Classifier, Gradient Boosting Classifier, and Neural Network with the balanced dataset. Although the accuracy of the models was not significantly improved, the results were more balanced and reliable.
+    
+    """)
     st.dataframe(classificationmetrics)
 
 #--------------------------------------------------------------------------------------------------------------
 if st.sidebar.button('Regression',key='regression'):
+    st.markdown('Regression Models')
     st.markdown("""
     Since we had already created the column ratio, we have tried several Machine Learning Models to check if predicting the ratio score with a regression could be more useful than predicting the category classification of the target column. \n
     Here are the results:""")
@@ -235,4 +244,13 @@ if st.sidebar.button('Regression',key='regression'):
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/xgbregressor.png?raw=trueg')
     with st.expander("MLP Regressor"): 
         st.image('https://github.com/llorenc-fer/Allianz/blob/main/Graphs/MLPRegressor.png?raw=trueg')
-
+#--------------------------------------------------------------------------------------------------------------
+if st.sidebar.button('Conclusions'):
+    st.subheader('Conclusions')
+    st.markdown("""
+    
+    """)
+                 
+                 
+                 
+                 
