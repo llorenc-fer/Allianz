@@ -51,7 +51,7 @@ if st.sidebar.button('Introduction'):
     st.subheader("Instructions provided by Allianz & NTT Data")
     st.markdown("""
 
-Databases description:\n
+**Databases description**:\n
 - The first one contains historical information about payment (or non-payment) of insurance premium instalments for a set of IDs, contracted with an insurance company. This information is presented in historical series ranging from 1 to 60 months. \n
 - The second table contains qualitative information for a series of IDs. \n
 - The third contains the complete address, zip code, and state within the United States.\n
