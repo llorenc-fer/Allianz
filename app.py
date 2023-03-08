@@ -48,6 +48,7 @@ st.set_option('deprecation.showPyplotGlobalUse', False) #para que no muestre war
 st.sidebar.title('Menu')
 
 if st.sidebar.button('Introduction'):
+    st.header("Introduction")
     st.subheader("Instructions provided by Allianz & NTT Data")
     st.markdown("""
 
@@ -60,8 +61,9 @@ if st.sidebar.button('Introduction'):
 
 **Tip provided:** One should assume that the same qualitative information present in the challenge's database will be available for these new customers.
 """)
-    
+#----------------------------------------------------------------------
 if st.sidebar.button('Datasets Overview'):
+    st.header("Datasets Overview")
     st.subheader("Main Dataset")
     st.dataframe(main)
     st.write('Shape: (438757, 19)')
@@ -76,6 +78,7 @@ if st.sidebar.button('Datasets Overview'):
 #---------------------------------------------------------------------------------------------------------------
 
 if st.sidebar.button('Preprocessing'):
+    st.subheader("Preprocessing")
     st.markdown(""" 
     - ID columns renamed and format-modified for all datasets, Main dataset and Address dataset merged on ID column.
     """)
